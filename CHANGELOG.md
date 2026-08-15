@@ -9,6 +9,47 @@
 
 暂无。
 
+## [0.8.0] - 2026-08-15
+
+### 新增
+
+- 在“管理与诊断”页面新增手动命令安装，支持官方
+  `dsh plugin --profile <当前Profile> add github:owner/repo[#ref]` 格式及精简的
+  `github:owner/repo[#ref]` 格式。
+- 手动安装会将 tag、分支或默认来源解析为精确 commit，验证 DSH Bundle、检查冲突，安装
+  成功后自动加入 Profile 并出现在“已安装插件”页面。
+
+### 安全
+
+- 手动命令作为结构化数据解析，不交给 Shell；拒绝跨 Profile、额外参数、多行、多命令、
+  Shell 运算符和危险 Git ref，且安装过程禁用生命周期脚本。
+
+### 测试
+
+- 增加手动命令解析的合法格式、Profile 隔离和命令注入回归测试；Typert Host 可调用性检查
+  扩展到 14 个远端方法。
+
+## [0.7.3] - 2026-08-15
+
+### 改进
+
+- 插件页调整为“插件市场 / 已安装插件 / 管理与诊断”三个子页面；插件安装位置和冲突诊断
+  移至独立管理页，减少已安装列表中的视觉干扰。
+- 已安装插件页新增按包名、说明、仓库和版本过滤的搜索框。
+- 市场卡片将仓库名作为主标题，仓库作者移动到独立信息行，不再与仓库名挤在同行。
+
+## [0.7.2] - 2026-08-15
+
+### 修复
+
+- 修复打开插件市场时 `marketplace/installLocation` 报错“active Service has no callable
+  method”的问题。Host 实现名称现在与 Typert 远端描述符完全一致。
+
+### 测试
+
+- Typert 契约测试现在会逐项检查远端描述符对应的 Host 方法是否真实存在且可调用，防止
+  类似的实现名称偏差再次进入发布版本。
+
 ## [0.7.1] - 2026-08-15
 
 ### 修复
@@ -195,7 +236,10 @@
 - npm 包内置构建产物和 Registry 快照；远程 Registry 不可用时仍可使用。
 - 提供 Registry Schema、扫描测试、构建及真实 DSH loader 验证脚本。
 
-[未发布]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.1...HEAD
+[未发布]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.8.0...HEAD
+[0.8.0]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.3...v0.8.0
+[0.7.3]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.2...v0.7.3
+[0.7.2]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.1...v0.7.2
 [0.7.1]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.0...v0.7.1
 [0.7.0]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.6.1...v0.7.0
 [0.6.1]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.6.0...v0.6.1

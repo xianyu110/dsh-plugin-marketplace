@@ -10,6 +10,52 @@ Registry refresh commits are grouped instead of listed individually.
 
 No unreleased changes yet.
 
+## [0.8.0] - 2026-08-15
+
+### Added
+
+- Added manual command installation under Management & diagnostics. It accepts the official
+  `dsh plugin --profile <active-profile> add github:owner/repo[#ref]` form and the shorter
+  `github:owner/repo[#ref]` form.
+- Manual installs resolve tags, branches, and default sources to an exact commit, validate the DSH
+  bundle, check conflicts, attach successful installs to the Profile, and list them under Installed
+  plugins.
+
+### Security
+
+- Manual commands are parsed as structured data and never passed to a shell. Cross-Profile commands,
+  extra arguments, multiple lines or commands, shell operators, and unsafe Git refs are rejected;
+  lifecycle scripts remain disabled during installation.
+
+### Tests
+
+- Added parser regressions for valid formats, Profile isolation, and command injection. Typert Host
+  callability coverage now includes all 14 Remote methods.
+
+## [0.7.3] - 2026-08-15
+
+### Changed
+
+- Split the plugin area into Marketplace, Installed plugins, and Management & diagnostics pages.
+  Plugin storage and conflict diagnosis now live on the dedicated management page, keeping the
+  installed list focused.
+- Added installed-plugin filtering by package name, description, repository, and version.
+- Marketplace cards now use the repository name as the heading and show its author on a separate
+  metadata line instead of combining both on one line.
+
+## [0.7.2] - 2026-08-15
+
+### Fixed
+
+- Fixed `marketplace/installLocation` failing with “active Service has no callable method” when
+  opening the marketplace. The Host implementation name now exactly matches its Typert Remote
+  descriptor.
+
+### Tests
+
+- The Typert contract test now checks that every Remote descriptor resolves to a real callable
+  method on the Host service, preventing similar implementation-name drift from shipping again.
+
 ## [0.7.1] - 2026-08-15
 
 ### Fixed
@@ -226,7 +272,10 @@ No unreleased changes yet.
   Registry failures.
 - Added the Registry Schema, scanner tests, build scripts, and validation against real DSH loaders.
 
-[Unreleased]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.1...HEAD
+[Unreleased]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.8.0...HEAD
+[0.8.0]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.3...v0.8.0
+[0.7.3]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.2...v0.7.3
+[0.7.2]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.1...v0.7.2
 [0.7.1]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.7.0...v0.7.1
 [0.7.0]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.6.1...v0.7.0
 [0.6.1]: https://github.com/YELEBAI/dsh-plugin-marketplace/compare/v0.6.0...v0.6.1
