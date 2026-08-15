@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T12:59:55.694Z",
+  "generatedAt": "2026-08-15T14:38:26.627Z",
   "windowDays": 7,
   "plugins": [
     {
@@ -122,6 +122,15 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "1148281964/dsh-token-stats",
+      "categories": [
+        "observability",
+        "ui",
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "121103qwq/dsh-vision-sidecar",
       "categories": [
         "media",
@@ -207,6 +216,13 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "1e0zj/dsh-plugin-mall",
+      "categories": [
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "1HelloMan1/dsh-stats-dashboard",
       "categories": [
         "ui",
@@ -270,6 +286,13 @@
       "categories": [
         "other"
       ],
+      "starGrowth7d": 1
+    },
+    {
+      "fullName": "2672243194/dsh-tally",
+      "categories": [
+        "other"
+      ],
       "starGrowth7d": 0
     },
     {
@@ -284,7 +307,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 3
     },
     {
       "fullName": "283Gawin/dsh-heatmap",
@@ -301,6 +324,15 @@
         "models"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "2nd1st/dsh-plugin-open-app",
+      "categories": [
+        "integrations",
+        "ui",
+        "agents"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "318197375/dsh-bottom-stats",
@@ -402,7 +434,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 3
     },
     {
       "fullName": "a179-sanae/dsh-code-check",
@@ -422,13 +454,6 @@
       "fullName": "a1swg1159-pixel/dsh-prompt-shield",
       "categories": [
         "other"
-      ],
-      "starGrowth7d": 0
-    },
-    {
-      "fullName": "a771853580/dsh-hindsight-plugins",
-      "categories": [
-        "data"
       ],
       "starGrowth7d": 0
     },
@@ -517,7 +542,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "AcidGr/dsh-web-mobile-fix",
@@ -588,6 +613,15 @@
       "fullName": "Adonis511/enhance-provider-config",
       "categories": [
         "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "aerince/dsh-active-context-pruning",
+      "categories": [
+        "data",
+        "models",
+        "integrations"
       ],
       "starGrowth7d": 0
     },
@@ -689,7 +723,7 @@
         "data",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "Airmetro/dsh-update-checker",
@@ -717,7 +751,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "akira399/dsh-guardian",
@@ -782,6 +816,13 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "AKS1st/ikun-theme-skin",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "AKS1st/model-usage-plugin",
       "categories": [
         "observability",
@@ -820,9 +861,10 @@
       "starGrowth7d": 0
     },
     {
-      "fullName": "AlfredChaos/dsh-usage-stats",
+      "fullName": "AlfredChaos/dsh-usage-panel",
       "categories": [
-        "observability"
+        "observability",
+        "ui"
       ],
       "starGrowth7d": 0
     },
@@ -882,6 +924,13 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "Alvin-Somedo/dsh-app-launcher",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "AmaTsumeAkira/opencode-usage",
       "categories": [
         "developer-tools",
@@ -922,7 +971,7 @@
         "agents",
         "media"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "AnacondaKC/dsh-custom-css",
@@ -981,7 +1030,7 @@
         "agents",
         "security"
       ],
-      "starGrowth7d": 7
+      "starGrowth7d": 8
     },
     {
       "fullName": "Anionex/dsh-eye-care",
@@ -1012,7 +1061,7 @@
         "ui",
         "agents"
       ],
-      "starGrowth7d": 171
+      "starGrowth7d": 182
     },
     {
       "fullName": "anjaymi/dsh-plugin-store",
@@ -1054,7 +1103,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "anweat/dsh-voice-webspeech",
@@ -1085,7 +1134,7 @@
         "agents",
         "models"
       ],
-      "starGrowth7d": 11
+      "starGrowth7d": 14
     },
     {
       "fullName": "anywhere-labs/framefactory-plugin",
@@ -1101,7 +1150,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "apheli0os/deepseek-harness-orchestrate",
@@ -1244,7 +1293,7 @@
         "agents",
         "data"
       ],
-      "starGrowth7d": 18
+      "starGrowth7d": 20
     },
     {
       "fullName": "AwesomeHou/dsh-plugin-marketplace",
@@ -1267,7 +1316,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 7
+      "starGrowth7d": 10
     },
     {
       "fullName": "Axiaohungry/dsh-llm-codebuddy",
@@ -1290,7 +1339,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 40
+      "starGrowth7d": 45
     },
     {
       "fullName": "ayingQAQ/dsh-web-launcher",
@@ -1311,6 +1360,14 @@
       "fullName": "AythyaCrispus/dsh-minimal-msys2",
       "categories": [
         "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "az7627/dsh-token-usage",
+      "categories": [
+        "observability",
+        "ui"
       ],
       "starGrowth7d": 0
     },
@@ -1336,7 +1393,7 @@
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "baidd1011/dsh-code-impact",
@@ -1344,6 +1401,13 @@
         "developer-tools"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "baisama-cloud/dsh-custom-brand",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "baka-world/dsh-notify",
@@ -1366,6 +1430,13 @@
         "models"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "bamboostrip/dsh-access-gate",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "banlanzs/dsh-web-enhanced",
@@ -1570,7 +1641,7 @@
         "developer-tools",
         "agents"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "BiBoyang/dsh-im-bridge",
@@ -1578,7 +1649,7 @@
         "integrations",
         "security"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "bilbillm/deepseek-harness-angelina-themes",
@@ -1642,7 +1713,7 @@
       "categories": [
         "integrations"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "BingChanCN/fabric",
@@ -1701,6 +1772,13 @@
         "security"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "Blank-not-black/dsh-remote-plugin",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "Bleed00/dsh-claude-mem",
@@ -1824,7 +1902,7 @@
         "ui",
         "models"
       ],
-      "starGrowth7d": 12
+      "starGrowth7d": 14
     },
     {
       "fullName": "boxeryao/dsh-mini-tui",
@@ -1842,6 +1920,14 @@
         "security"
       ],
       "starGrowth7d": 6
+    },
+    {
+      "fullName": "bradeGithub/DSH-Plugins-Marketplace",
+      "categories": [
+        "agents",
+        "models"
+      ],
+      "starGrowth7d": 37
     },
     {
       "fullName": "BrambleXu/dsh-annotate",
@@ -2011,14 +2097,14 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 13
+      "starGrowth7d": 17
     },
     {
       "fullName": "cakeni/harness-pet",
       "categories": [
         "other"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "Cao-zhi-hao/balance-dock",
@@ -2079,7 +2165,7 @@
       "starGrowth7d": 1
     },
     {
-      "fullName": "CaseyTso/analyze_image_tool",
+      "fullName": "CaseyTso/dsh-analyze-image-tool",
       "categories": [
         "media",
         "models",
@@ -2127,7 +2213,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 655
+      "starGrowth7d": 693
     },
     {
       "fullName": "CCCq-C/dsh-api-cost",
@@ -2352,7 +2438,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "chenzhexii/dsh-api-usage",
@@ -2496,6 +2582,14 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "ChuanTianML/dsh-chat-tidy",
+      "categories": [
+        "ui",
+        "data"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "ChuanTianML/dsh-local-share",
       "categories": [
         "security"
@@ -2516,7 +2610,7 @@
         "agents",
         "models"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "ciceroyang/dsh-report-studio",
@@ -2547,6 +2641,13 @@
         "data",
         "models",
         "security"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "cirelir/dsh-change-review",
+      "categories": [
+        "ui"
       ],
       "starGrowth7d": 0
     },
@@ -2628,7 +2729,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 5
+      "starGrowth7d": 6
     },
     {
       "fullName": "CocoSgt/dsh-inspector",
@@ -2636,7 +2737,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 4
+      "starGrowth7d": 5
     },
     {
       "fullName": "CocoSgt/dsh-skills",
@@ -2644,7 +2745,7 @@
         "agents",
         "models"
       ],
-      "starGrowth7d": 4
+      "starGrowth7d": 5
     },
     {
       "fullName": "codeAnqiang-ma/dsh-superpowers",
@@ -2662,6 +2763,15 @@
         "developer-tools"
       ],
       "starGrowth7d": 2
+    },
+    {
+      "fullName": "coderdailyone/dsh-plugin-browser-use",
+      "categories": [
+        "developer-tools",
+        "ui",
+        "agents"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "coderdailyone/dsh-plugin-web-search-tavily",
@@ -2735,7 +2845,7 @@
         "developer-tools",
         "security"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "CrazyShout/dsh-ssh-remote",
@@ -2749,7 +2859,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 5
+      "starGrowth7d": 6
     },
     {
       "fullName": "Creakono/dsh-cost-meter",
@@ -2878,7 +2988,7 @@
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "cyanseek/dsh-tool-chaos",
@@ -2904,12 +3014,12 @@
       "starGrowth7d": 2
     },
     {
-      "fullName": "cyijun/surfing-plugin",
+      "fullName": "cyijun/dsh-surfing-plugin",
       "categories": [
         "data",
         "models"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 0
     },
     {
       "fullName": "cynch18/plugin-switch",
@@ -3099,6 +3209,13 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "deCOLE118/dsh-sitemap",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "DEEP-IOS/dsh-humanizer",
       "categories": [
         "other"
@@ -3139,6 +3256,13 @@
       "categories": [
         "agents",
         "integrations"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "delightedMaster/dsh-subprocess-win32",
+      "categories": [
+        "other"
       ],
       "starGrowth7d": 0
     },
@@ -3205,6 +3329,14 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "dhicoc/dsh-chinese-traditional-wisdom-skill",
+      "categories": [
+        "ui",
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "dhicoc/dsh-reverse-skill",
       "categories": [
         "developer-tools",
@@ -3239,6 +3371,13 @@
       "fullName": "DietCokewithSugar/dsh-user-experience",
       "categories": [
         "developer-tools",
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "DimitriLIAN/dsh-archive-viewer",
+      "categories": [
         "ui"
       ],
       "starGrowth7d": 0
@@ -3310,6 +3449,14 @@
         "other"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "doebkblcya/dsh-workbench",
+      "categories": [
+        "ui",
+        "developer-tools"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "doncelee229-cmyk/dsh-plugin-approval-alert",
@@ -3565,7 +3712,7 @@
       "categories": [
         "data"
       ],
-      "starGrowth7d": 152
+      "starGrowth7d": 178
     },
     {
       "fullName": "dsh-plugins/dsh-thought-buddy",
@@ -3589,6 +3736,13 @@
         "developer-tools"
       ],
       "starGrowth7d": 8
+    },
+    {
+      "fullName": "dshworks/dsh-meter",
+      "categories": [
+        "observability"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "dshworks/dsh-watch",
@@ -3631,6 +3785,13 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "duyanta123/dsh-preset-scaffold",
+      "categories": [
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "duyefeng/dsh-browser",
       "categories": [
         "developer-tools",
@@ -3643,7 +3804,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "DViridescent/dsh-compaction-meta",
@@ -3678,6 +3839,14 @@
       "fullName": "dylan121322/llm-adaptive",
       "categories": [
         "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "Dylan37670/dsh-plugin-panel",
+      "categories": [
+        "ui",
+        "data"
       ],
       "starGrowth7d": 0
     },
@@ -3784,6 +3953,13 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "Elohia/dsh-genome",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "Elohia/dsh-plugin-image-input",
       "categories": [
         "media",
@@ -3887,13 +4063,29 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "Ericwong5021/dsh-kanban",
       "categories": [
         "ui",
         "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "EricXu20266/dsh-discovery",
+      "categories": [
+        "developer-tools",
+        "data"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "Eridani075/deepseek-harness-antigravity-oauth",
+      "categories": [
+        "models",
+        "security"
       ],
       "starGrowth7d": 0
     },
@@ -3931,6 +4123,13 @@
         "other"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "extension-hunter/dsh-authorize-app",
+      "categories": [
+        "security"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "extension-hunter/dsh-pip",
@@ -3982,6 +4181,15 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "Fayelin12/dsh-office",
+      "categories": [
+        "ui",
+        "developer-tools",
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "feibi-mochi/deepseek-harness-wallet",
       "categories": [
         "observability",
@@ -4003,7 +4211,7 @@
       "categories": [
         "observability"
       ],
-      "starGrowth7d": 11
+      "starGrowth7d": 12
     },
     {
       "fullName": "FengHuoLinShan/dsh-plugin-llm-balance",
@@ -4083,6 +4291,14 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "fire-disposal/dsh-mojibake-interceptor",
+      "categories": [
+        "ui",
+        "security"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "fishlikewater/dsh-mcp-manager",
       "categories": [
         "integrations",
@@ -4096,7 +4312,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 32
+      "starGrowth7d": 33
     },
     {
       "fullName": "Fishsb/dsh-prompt-enhancer",
@@ -4125,7 +4341,7 @@
       "categories": [
         "developer-tools",
         "agents",
-        "ui"
+        "models"
       ],
       "starGrowth7d": 0
     },
@@ -4160,7 +4376,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "flyingtimes/dsh-trajectory-reader",
@@ -4168,7 +4384,7 @@
         "integrations",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "flymysql/dsh-memory",
@@ -4183,7 +4399,7 @@
       "categories": [
         "developer-tools"
       ],
-      "starGrowth7d": 5
+      "starGrowth7d": 6
     },
     {
       "fullName": "Flyvhidbwo/dsh-vision-proxy",
@@ -4214,7 +4430,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "Francis-Xavier-code/dsh-balance-plugin",
@@ -4222,7 +4438,7 @@
         "observability",
         "developer-tools"
       ],
-      "starGrowth7d": 8
+      "starGrowth7d": 12
     },
     {
       "fullName": "frankq007/dsh-plugin-devecocli",
@@ -4319,6 +4535,13 @@
       "starGrowth7d": 3
     },
     {
+      "fullName": "fuilyha56-wq/dsh-for-mofox-ada",
+      "categories": [
+        "integrations"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "FuRongJun-1999/dsh-memory",
       "categories": [
         "data",
@@ -4382,6 +4605,21 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "GarfieldGCat/dsh-opencode-go-usage",
+      "categories": [
+        "developer-tools",
+        "observability"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "garrisonz/dsh-sidebar-width",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "GengDaPeng/dsh-agent-message",
       "categories": [
         "agents",
@@ -4395,7 +4633,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "gezi-wen/sage-meta",
@@ -4412,10 +4650,26 @@
       "starGrowth7d": 0
     },
     {
-      "fullName": "GHJIVHIDD/dsh-plugin-docker",
+      "fullName": "GHJIVHIDD/dsh-plugin-canvas",
+      "categories": [
+        "developer-tools",
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "GHJIVHIDD/dsh-plugin-container",
       "categories": [
         "ui",
         "developer-tools"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "GHJIVHIDD/dsh-plugin-repoflow",
+      "categories": [
+        "developer-tools",
+        "ui"
       ],
       "starGrowth7d": 0
     },
@@ -4482,6 +4736,14 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "GitRuozhi/dsh-github-mcp",
+      "categories": [
+        "integrations",
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "glangzh/dsh-advisor",
       "categories": [
         "agents"
@@ -4509,7 +4771,9 @@
     {
       "fullName": "gloryxpnv/dsh-tool-vision",
       "categories": [
-        "media"
+        "media",
+        "ui",
+        "models"
       ],
       "starGrowth7d": 0
     },
@@ -4612,6 +4876,14 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "good-boy4069/dsh-vision-guard",
+      "categories": [
+        "media",
+        "security"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "GooodWei/arcana",
       "categories": [
         "other"
@@ -4659,11 +4931,34 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "grunmin/dsh-acp-enhanced",
+      "categories": [
+        "agents",
+        "models",
+        "integrations"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "GULI-lab/DSH-element-source",
       "categories": [
         "ui"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "guo-ziao/dsh-interrupt-button",
+      "categories": [
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "guo6x/dsh-housekeeper",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "guo6x/dsh-pilot",
@@ -4732,7 +5027,21 @@
       "starGrowth7d": 0
     },
     {
-      "fullName": "haibara757/dsh-ui-extensions",
+      "fullName": "gzr123166/dsh-cloud-connector",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "haibara757/dsh-haibala-remote-web-ui",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "haibara757/dsh-haibala-ui-extensions",
       "categories": [
         "ui"
       ],
@@ -4759,7 +5068,7 @@
         "observability",
         "ui"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "haifeiWu/dsh-ocr",
@@ -4814,7 +5123,7 @@
         "models",
         "integrations"
       ],
-      "starGrowth7d": 27
+      "starGrowth7d": 30
     },
     {
       "fullName": "Han-1413141/dsh-sticky-disclosure",
@@ -4845,7 +5154,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 23
+      "starGrowth7d": 27
     },
     {
       "fullName": "hancao97/hanai-investment-dsh",
@@ -4859,7 +5168,8 @@
     {
       "fullName": "hanwuji1/dsh-web-launcher",
       "categories": [
-        "other"
+        "ui",
+        "developer-tools"
       ],
       "starGrowth7d": 0
     },
@@ -4897,6 +5207,15 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "Happy2Git/dsh-compass",
+      "categories": [
+        "ui",
+        "developer-tools",
+        "data"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "happyren/dsh-agent-messaging",
       "categories": [
         "agents"
@@ -4915,13 +5234,6 @@
       "fullName": "HarryLi-7/dsh-update-checker",
       "categories": [
         "other"
-      ],
-      "starGrowth7d": 0
-    },
-    {
-      "fullName": "HarryLi-7/dsh-vision",
-      "categories": [
-        "media"
       ],
       "starGrowth7d": 0
     },
@@ -4951,7 +5263,7 @@
       "categories": [
         "data"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "havingautism/dsh-notebooks",
@@ -5086,6 +5398,13 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "hemo94931/dsh-timeline",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "HenC49/dsh-mcp-manager",
       "categories": [
         "integrations"
@@ -5156,6 +5475,14 @@
       "categories": [
         "observability",
         "developer-tools"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "hjqcan/dsh-goodmemory",
+      "categories": [
+        "data",
+        "agents"
       ],
       "starGrowth7d": 0
     },
@@ -5242,7 +5569,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 7
+      "starGrowth7d": 8
     },
     {
       "fullName": "HtO404/dsh-chime",
@@ -5267,6 +5594,13 @@
         "ui"
       ],
       "starGrowth7d": 2
+    },
+    {
+      "fullName": "huahai0202/dsh-plugin-manager",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "huanghouchun/dsh-claude-migrator",
@@ -5319,7 +5653,7 @@
         "data",
         "media"
       ],
-      "starGrowth7d": 15
+      "starGrowth7d": 16
     },
     {
       "fullName": "HuanLinOTO/dsh-plugin-sleep",
@@ -5385,9 +5719,9 @@
     {
       "fullName": "HubaKing/dsh-community-plugins",
       "categories": [
-        "other"
+        "agents"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "hubo980205/dsh-bgwall-plugin",
@@ -5417,7 +5751,7 @@
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "huguangyu666/dsh-plugin-session-import",
@@ -5448,7 +5782,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 62
+      "starGrowth7d": 66
     },
     {
       "fullName": "humblebanana/dsh-record-replay",
@@ -5478,6 +5812,14 @@
         "observability",
         "integrations",
         "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "hxy113/dsh-turn-notify",
+      "categories": [
+        "ui",
+        "agents"
       ],
       "starGrowth7d": 0
     },
@@ -5594,6 +5936,13 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "iamfromchangsha/dsh-go-balance",
+      "categories": [
+        "developer-tools"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "IAMLieutenant/dsh-tool-user-memory",
       "categories": [
         "data"
@@ -5606,7 +5955,7 @@
         "integrations",
         "security"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "icefall7/dsh-plugin-scout",
@@ -5622,7 +5971,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 13
+      "starGrowth7d": 15
     },
     {
       "fullName": "ihuajiu/dsh-plugin-finder",
@@ -5660,14 +6009,14 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "inmny/dsh-git-bash",
       "categories": [
         "developer-tools"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "inmny/dsh-sandbox-escalation-fix",
@@ -5750,6 +6099,15 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "ivwumupy/dsh-better-codex-subagent",
+      "categories": [
+        "agents",
+        "developer-tools",
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "iyllyt/dsh-btw",
       "categories": [
         "developer-tools",
@@ -5800,6 +6158,13 @@
       "fullName": "Jamailar/beav-deepseek-harness",
       "categories": [
         "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "JasonCHTT/dsh-netease-music",
+      "categories": [
+        "media"
       ],
       "starGrowth7d": 0
     },
@@ -5904,7 +6269,7 @@
       "categories": [
         "models"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "Jesse-njx/dsh-skillport",
@@ -5938,14 +6303,14 @@
         "observability",
         "integrations"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "jiangnanquan/dsh-ux",
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "Jiao-XXX/dsh-auto-approve",
@@ -5953,7 +6318,7 @@
         "developer-tools",
         "security"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "jiaoqsh/dsh-document",
@@ -6017,7 +6382,7 @@
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "JimmyJin2006/dsh-skill-manager",
@@ -6086,13 +6451,22 @@
       "starGrowth7d": 3
     },
     {
+      "fullName": "jmcc-guo/dsh-ssh",
+      "categories": [
+        "ui",
+        "developer-tools",
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "joejojoking-cloud/dsh-file-explorer",
       "categories": [
         "developer-tools",
         "agents",
         "models"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "Joeytisaly/dsh-web-search-tokenrhythm",
@@ -6201,6 +6575,15 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "JUANWANG-BUAA/dsh-full-remote",
+      "categories": [
+        "security",
+        "ui",
+        "integrations"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "juhe291/dsh-token-panel",
       "categories": [
         "observability",
@@ -6256,7 +6639,7 @@
         "media",
         "ui"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "Jyleaves/dsh-win-bash-fix",
@@ -6284,6 +6667,14 @@
       "fullName": "kaidiren/dsh-reasoning",
       "categories": [
         "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "Kaiji-Z/dsh-plugin-lookatstudy",
+      "categories": [
+        "ui",
+        "developer-tools"
       ],
       "starGrowth7d": 0
     },
@@ -6444,7 +6835,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 0
     },
     {
       "fullName": "KeLearns/dsh-token-usage",
@@ -6458,7 +6849,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 13
+      "starGrowth7d": 15
     },
     {
       "fullName": "kerwin2046/dsh-pin-recall",
@@ -6581,7 +6972,7 @@
       "categories": [
         "data"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "Kimoiran/dsh-gui-trash",
@@ -6611,7 +7002,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "kirigayakazima/dsh-usage-vendor-stats",
@@ -7099,7 +7490,7 @@
       "categories": [
         "observability"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "lengduan/dsh-815-skin",
@@ -7169,7 +7560,7 @@
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "LeslieWylie/review-workflow",
@@ -7290,7 +7681,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 69
+      "starGrowth7d": 85
     },
     {
       "fullName": "liceses/dsh-web-text-drop",
@@ -7369,7 +7760,7 @@
         "media",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "LingLambda/dsh-logger-panel",
@@ -7385,7 +7776,7 @@
         "models",
         "data"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "lingtima/dsh-think-chinese",
@@ -7407,6 +7798,13 @@
         "ui"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "Linjiangxian0203/dsh-remote-tunnel",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "linkingoscar/dsh-attachment-formats",
@@ -7447,14 +7845,14 @@
         "observability",
         "models"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "liqichen/dsh-plugin-manager",
       "categories": [
         "integrations"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "lire1131/dsh-undo-plugin",
@@ -7462,7 +7860,7 @@
         "ui",
         "developer-tools"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "lisniuse/dsh-modal-enhancer",
@@ -7502,7 +7900,7 @@
         "media",
         "developer-tools"
       ],
-      "starGrowth7d": 842
+      "starGrowth7d": 912
     },
     {
       "fullName": "liustack/modsearch",
@@ -7520,7 +7918,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "liuup/dsh-latex-tools",
@@ -7528,6 +7926,27 @@
         "media"
       ],
       "starGrowth7d": 5
+    },
+    {
+      "fullName": "lizhecome/deepseek-harness-flowchart",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "lizhecome/deepseek-harness-prompt-optimizer",
+      "categories": [
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "lizhecome/deepseek-harness-tool-palette",
+      "categories": [
+        "agents"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "lj970926/dsh-plugin-mermaid",
@@ -7753,7 +8172,7 @@
         "models",
         "media"
       ],
-      "starGrowth7d": 5
+      "starGrowth7d": 6
     },
     {
       "fullName": "lougyang/dsh-voice-input",
@@ -7785,13 +8204,28 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "LSAI2023/dsh-ide-context",
+      "categories": [
+        "data"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "lsjspl/dsh-plugin-grok2api-media-tool",
+      "categories": [
+        "media",
+        "integrations"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "lssyd20070106/dsh-ui-preset-enhance",
       "categories": [
         "ui",
         "data",
         "observability"
       ],
-      "starGrowth7d": 4
+      "starGrowth7d": 5
     },
     {
       "fullName": "lsz-asd/dsh-plugin-device-info",
@@ -7883,14 +8317,14 @@
       "categories": [
         "developer-tools"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "lucky8197/dsh-weekly-digest",
       "categories": [
         "developer-tools"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "Luke-Yong/dsh-plugin-knowledge-graph",
@@ -7967,18 +8401,25 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "LvsH13/dsh-desktop",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "lvyuchuiyi/dsh-funpack",
       "categories": [
         "other"
       ],
-      "starGrowth7d": 5
+      "starGrowth7d": 6
     },
     {
       "fullName": "LX2000WASD/dsh-web-plugin-manager",
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 31
+      "starGrowth7d": 32
     },
     {
       "fullName": "lx963/dsh-webui-background",
@@ -8072,7 +8513,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "magian1127/deepseek-harness-zh_pro",
@@ -8102,7 +8543,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "Make0209/dsh-usage-stats",
@@ -8161,7 +8602,7 @@
         "models",
         "developer-tools"
       ],
-      "starGrowth7d": 8
+      "starGrowth7d": 9
     },
     {
       "fullName": "MartinDelophy/dsh-timeline-studio-plugin",
@@ -8315,6 +8756,14 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "MEMZ-JZY/DSH-Claude-Style-Reasoning-Slider",
+      "categories": [
+        "ui",
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "mengyun233/dsh-codex-pet",
       "categories": [
         "developer-tools",
@@ -8358,7 +8807,14 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 9
+      "starGrowth7d": 10
+    },
+    {
+      "fullName": "Mg-K-Mn/dsh-plugin-manager",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "mhtdm/dsh-lesson-outline",
@@ -8395,7 +8851,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "MicroHEROX/dsh-Kimi-WebBridge",
@@ -8421,6 +8877,22 @@
         "media"
       ],
       "starGrowth7d": 0
+    },
+    {
+      "fullName": "miisaka19800/dsh-restart-fab",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "Miku196/dsh-tokensave",
+      "categories": [
+        "observability",
+        "agents",
+        "data"
+      ],
+      "starGrowth7d": 1
     },
     {
       "fullName": "minatoAI/jina-web-search-dsh-plugin",
@@ -8493,7 +8965,7 @@
       "categories": [
         "data"
       ],
-      "starGrowth7d": 21
+      "starGrowth7d": 28
     },
     {
       "fullName": "mitao-su/dsh-playwright-cli",
@@ -8524,6 +8996,22 @@
       "categories": [
         "developer-tools",
         "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "mizuhara37/dsh-nene-theme",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "mldhao/dsh-blue-archive-shiroko",
+      "categories": [
+        "ui",
+        "developer-tools",
+        "models"
       ],
       "starGrowth7d": 0
     },
@@ -8562,7 +9050,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 7
+      "starGrowth7d": 9
     },
     {
       "fullName": "Moeblack/dsh-minimal-web",
@@ -8630,7 +9118,7 @@
         "integrations",
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "MoneShadow/dsh-plugin-vision",
@@ -8660,7 +9148,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "moon09300731/dsh-approval-gate",
@@ -8738,11 +9226,25 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "Mr-cjf/dsh-think-in-chinese",
+      "categories": [
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "Mreate/dsh-cc-import",
       "categories": [
         "developer-tools",
         "models",
         "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "msilita/dsh-graceful-restart",
+      "categories": [
+        "other"
       ],
       "starGrowth7d": 0
     },
@@ -8767,14 +9269,14 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 4
+      "starGrowth7d": 5
     },
     {
       "fullName": "MuWinds/dsh-archived-sessions",
       "categories": [
         "other"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "muyifc/dsh-config-sync",
@@ -8835,6 +9337,13 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "mytianyi0712/dsh-tui-plugin-OhMyPi",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "nabin-qq273274877/dsh-model-balance",
       "categories": [
         "models"
@@ -8855,7 +9364,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 197
+      "starGrowth7d": 205
     },
     {
       "fullName": "Nagi-ovo/dsh-visualize",
@@ -8863,7 +9372,7 @@
         "data",
         "models"
       ],
-      "starGrowth7d": 48
+      "starGrowth7d": 50
     },
     {
       "fullName": "Nanki-nn/dsh-answer-pet",
@@ -8878,7 +9387,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 164
+      "starGrowth7d": 179
     },
     {
       "fullName": "NanmiCoder/dsh-auto-mode",
@@ -8887,7 +9396,7 @@
         "developer-tools",
         "security"
       ],
-      "starGrowth7d": 43
+      "starGrowth7d": 48
     },
     {
       "fullName": "nanshan1995/DSH-Plugin-Market",
@@ -8901,6 +9410,23 @@
       "categories": [
         "developer-tools",
         "integrations"
+      ],
+      "starGrowth7d": 1
+    },
+    {
+      "fullName": "NattoCB/dsh-plugin-wechat-bridge",
+      "categories": [
+        "integrations",
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "NEAZ71eve/dsh-tool-github",
+      "categories": [
+        "integrations",
+        "agents",
+        "ui"
       ],
       "starGrowth7d": 0
     },
@@ -8925,7 +9451,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "NewDaNew/dsh-voice-input",
@@ -9058,6 +9584,13 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "NOirBRight/dsh-llm-ollama",
+      "categories": [
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "NoNameLeGo/dsh-catppuccin",
       "categories": [
         "ui"
@@ -9127,7 +9660,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 21
+      "starGrowth7d": 23
     },
     {
       "fullName": "Nwflower/dsh-file-claim",
@@ -9156,14 +9689,23 @@
       "categories": [
         "media"
       ],
-      "starGrowth7d": 29
+      "starGrowth7d": 30
+    },
+    {
+      "fullName": "Oliver0804/dsh-discord-bot",
+      "categories": [
+        "integrations",
+        "agents",
+        "developer-tools"
+      ],
+      "starGrowth7d": 1
     },
     {
       "fullName": "omdsh-dev/7d7d",
       "categories": [
         "other"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "omdsh-dev/dsh-advisor",
@@ -9179,7 +9721,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 26
+      "starGrowth7d": 28
     },
     {
       "fullName": "omdsh-dev/dsh-at-file",
@@ -9188,7 +9730,7 @@
         "models",
         "data"
       ],
-      "starGrowth7d": 132
+      "starGrowth7d": 142
     },
     {
       "fullName": "omdsh-dev/dsh-auto-chess",
@@ -9203,7 +9745,7 @@
         "ui",
         "developer-tools"
       ],
-      "starGrowth7d": 652
+      "starGrowth7d": 728
     },
     {
       "fullName": "omdsh-dev/dsh-book2skill",
@@ -9249,7 +9791,7 @@
         "agents",
         "data"
       ],
-      "starGrowth7d": 18
+      "starGrowth7d": 20
     },
     {
       "fullName": "omdsh-dev/dsh-deep-research",
@@ -9302,7 +9844,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 59
+      "starGrowth7d": 66
     },
     {
       "fullName": "omdsh-dev/dsh-gomoku",
@@ -9339,7 +9881,7 @@
       "categories": [
         "integrations"
       ],
-      "starGrowth7d": 13
+      "starGrowth7d": 14
     },
     {
       "fullName": "omdsh-dev/dsh-llm-fallbacks",
@@ -9361,7 +9903,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "omdsh-dev/dsh-mnemon",
@@ -9370,7 +9912,7 @@
         "developer-tools",
         "data"
       ],
-      "starGrowth7d": 22
+      "starGrowth7d": 24
     },
     {
       "fullName": "omdsh-dev/dsh-notification",
@@ -9391,7 +9933,7 @@
       "categories": [
         "developer-tools"
       ],
-      "starGrowth7d": 8
+      "starGrowth7d": 11
     },
     {
       "fullName": "omdsh-dev/dsh-paddle-ocr",
@@ -9413,7 +9955,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 6
+      "starGrowth7d": 7
     },
     {
       "fullName": "omdsh-dev/dsh-revive",
@@ -9434,7 +9976,7 @@
       "categories": [
         "security"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "omdsh-dev/dsh-session-health",
@@ -9620,7 +10162,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "ookami-change/dsh-plugin-starter",
@@ -9710,6 +10252,15 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "ovensi/dsh-plugin-minimax-usage",
+      "categories": [
+        "observability",
+        "ui",
+        "integrations"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "Ox0400/dsh-vault",
       "categories": [
         "security",
@@ -9739,7 +10290,7 @@
       "categories": [
         "integrations"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 2
     },
     {
       "fullName": "PandaColour/dsh-cmd-starter",
@@ -9833,7 +10384,7 @@
         "developer-tools",
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "PaRr0tBoY/dsh-toc-and-rewind",
@@ -9954,7 +10505,7 @@
     {
       "fullName": "PerryLink/dsh-lsp-actions",
       "categories": [
-        "other"
+        "developer-tools"
       ],
       "starGrowth7d": 1
     },
@@ -10087,6 +10638,13 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "PiyotaHu/muxiva-dsh-voice",
+      "categories": [
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "Player-MINEPIG/dsh-llm-codex-oauth",
       "categories": [
         "developer-tools",
@@ -10141,7 +10699,7 @@
         "media",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "puppet2004/dsh-chatpaper",
@@ -10171,7 +10729,7 @@
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "qichuang321/dsh-plugin-browser",
@@ -10229,9 +10787,9 @@
       "categories": [
         "media",
         "integrations",
-        "developer-tools"
+        "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "Qingzhou-Joshua/dsh-dev-toolbox",
@@ -10288,6 +10846,14 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "qiuyiwu1989-star/dsh-k12-substrate",
+      "categories": [
+        "data",
+        "developer-tools"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "qizhen2021/dsh-plugin-vision",
       "categories": [
         "media"
@@ -10300,7 +10866,7 @@
         "models",
         "data"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "qjcnmd/dsh-reasoning-slider",
@@ -10317,7 +10883,7 @@
       "starGrowth7d": 0
     },
     {
-      "fullName": "Qshuai0213/dsh-wechat-bridge",
+      "fullName": "Qshuai0213/super-wechat-bridge",
       "categories": [
         "integrations"
       ],
@@ -10352,14 +10918,14 @@
       "categories": [
         "data"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "qyw233/dsh-deeplink",
       "categories": [
         "developer-tools"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "r0bert001/dsh-balance-plugin",
@@ -10558,7 +11124,7 @@
         "ui",
         "observability"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "Rianico/dsh-better-edit",
@@ -10608,6 +11174,13 @@
       "starGrowth7d": 2
     },
     {
+      "fullName": "rongyishuaige7/dsh-spec",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "roojay/dsh-trusted-host-proxy-403-fix",
       "categories": [
         "other"
@@ -10645,6 +11218,15 @@
         "media"
       ],
       "starGrowth7d": 2
+    },
+    {
+      "fullName": "ruby1304/dsh-vision-subagent",
+      "categories": [
+        "media",
+        "agents",
+        "developer-tools"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "Ruler4396/dsh-launcher-lifetime",
@@ -10721,6 +11303,13 @@
         "ui"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "SaiSenBox/dsh-prompt-manager",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "saitamahang/dsh-skill-importer",
@@ -10800,7 +11389,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 11
+      "starGrowth7d": 20
     },
     {
       "fullName": "sanshanya/better-model-provider",
@@ -10825,6 +11414,13 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "Scorp1o117/dsh-plugin-marketplace",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 1
+    },
+    {
       "fullName": "sd1g1/dsh-image-describe",
       "categories": [
         "media"
@@ -10839,6 +11435,13 @@
       "starGrowth7d": 3
     },
     {
+      "fullName": "Sean-Gao/DSH",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "securstack/securstack-dsh-plugin",
       "categories": [
         "agents",
@@ -10846,6 +11449,13 @@
         "developer-tools"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "seki668/dsh-plugin-descriptions",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "Semidia/dsh-sampling-sliders",
@@ -10863,13 +11473,20 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "Semidia/dsh-smart-route",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "SenmuuuuW/dsh-whale-report",
       "categories": [
         "developer-tools",
         "observability",
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 3
     },
     {
       "fullName": "sereinmono/dsh-desktop-pet",
@@ -10877,7 +11494,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "Seryta/dsh-node-nav",
@@ -11095,11 +11712,11 @@
       "starGrowth7d": 0
     },
     {
-      "fullName": "silencieuxzero/Better_Deepseek_Harkness",
+      "fullName": "silencieuxzero/Better_Deepseek_Harness",
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 0
     },
     {
       "fullName": "Sim-xia/dsh-vscode-theme",
@@ -11135,6 +11752,15 @@
       "categories": [
         "security",
         "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "SipengXie2024/dsh-turn-reminder",
+      "categories": [
+        "developer-tools",
+        "models",
+        "security"
       ],
       "starGrowth7d": 0
     },
@@ -11512,7 +12138,7 @@
         "agents",
         "data"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "STARDUSTLC666/dsh-ffmpeg",
@@ -11580,14 +12206,14 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "starslittle/dsh-queue-plus",
       "categories": [
         "other"
       ],
-      "starGrowth7d": 3
+      "starGrowth7d": 4
     },
     {
       "fullName": "stevenx65/dsh-balance-plugin",
@@ -11626,6 +12252,13 @@
       "categories": [
         "observability",
         "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "Stu-KatoMegumi/dsh-weixin",
+      "categories": [
+        "integrations"
       ],
       "starGrowth7d": 0
     },
@@ -11726,7 +12359,7 @@
         "models",
         "security"
       ],
-      "starGrowth7d": 4
+      "starGrowth7d": 6
     },
     {
       "fullName": "sunyuhuirong/deepseek-account",
@@ -11767,7 +12400,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 3
     },
     {
       "fullName": "superdesigndev/treg",
@@ -11776,7 +12409,7 @@
         "integrations",
         "developer-tools"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 3
     },
     {
       "fullName": "superfly/sprites-deepseek-plugin",
@@ -11825,13 +12458,22 @@
         "models",
         "observability"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "swaylq/dsh-genie",
       "categories": [
         "agents",
         "security"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "swaylq/dsh-wildmon",
+      "categories": [
+        "agents",
+        "models",
+        "observability"
       ],
       "starGrowth7d": 0
     },
@@ -11887,7 +12529,7 @@
         "developer-tools",
         "agents"
       ],
-      "starGrowth7d": 16
+      "starGrowth7d": 17
     },
     {
       "fullName": "TableRogue/dsh-message-navigator",
@@ -12008,7 +12650,7 @@
       "categories": [
         "integrations"
       ],
-      "starGrowth7d": 17
+      "starGrowth7d": 20
     },
     {
       "fullName": "Terry12138qy/dsh-vision",
@@ -12135,7 +12777,14 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 6
+      "starGrowth7d": 7
+    },
+    {
+      "fullName": "tiantyu/dsh-skin-toggle",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "tianyhjg-lab/dsh-font",
@@ -12151,7 +12800,7 @@
         "developer-tools",
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "Tikzen/dsh-agent-arena",
@@ -12168,7 +12817,7 @@
         "models",
         "security"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 2
     },
     {
       "fullName": "TimeCraker/dsh-claude-import",
@@ -12191,7 +12840,7 @@
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 23
+      "starGrowth7d": 24
     },
     {
       "fullName": "titanwings/dsh-better-browser",
@@ -12247,6 +12896,14 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "Tlyer233/dsh-vscode-review",
+      "categories": [
+        "ui",
+        "developer-tools"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "Tommy00748/dsh-theme-cyberpunk2077",
       "categories": [
         "ui"
@@ -12283,7 +12940,7 @@
         "agents",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 2
     },
     {
       "fullName": "Tostoevsky/TsienHsueShen",
@@ -12374,7 +13031,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "tsonglew/dsh-media-preview",
@@ -12398,6 +13055,15 @@
       "categories": [
         "agents",
         "data"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "ttmouse/dsh-dingtalk-channel",
+      "categories": [
+        "integrations",
+        "agents",
+        "security"
       ],
       "starGrowth7d": 0
     },
@@ -12479,6 +13145,15 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "TwistedRiCen/dsh-vision-bridge",
+      "categories": [
+        "media",
+        "integrations",
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "TwotwoPiggy/dsh-balance",
       "categories": [
         "observability",
@@ -12540,6 +13215,13 @@
         "developer-tools"
       ],
       "starGrowth7d": 1
+    },
+    {
+      "fullName": "UlaBe/dsh-conversation-nav",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "Ultronen/dsh-theme-lab",
@@ -12688,7 +13370,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "Victor-770/dsh-commandcode-provider",
@@ -12704,14 +13386,14 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "Vim0x3c/dsh-skin-appearance",
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 4
+      "starGrowth7d": 5
     },
     {
       "fullName": "vinyumao/dsh-opencode-usage",
@@ -12792,14 +13474,14 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 4
+      "starGrowth7d": 5
     },
     {
       "fullName": "vlln/whale-girl",
       "categories": [
         "developer-tools"
       ],
-      "starGrowth7d": 100
+      "starGrowth7d": 103
     },
     {
       "fullName": "Vncntvx/dsh-zotero",
@@ -12852,6 +13534,14 @@
       "fullName": "wade20250715/dsh-pubmed",
       "categories": [
         "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "wallpap/dsh-compact-activity",
+      "categories": [
+        "developer-tools",
+        "models"
       ],
       "starGrowth7d": 0
     },
@@ -13080,7 +13770,7 @@
       "categories": [
         "agents"
       ],
-      "starGrowth7d": 7
+      "starGrowth7d": 8
     },
     {
       "fullName": "WindLX/paper_plane_x_dsh",
@@ -13131,6 +13821,13 @@
       "fullName": "winyh/dsh-growth",
       "categories": [
         "other"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "With-With/dsh-hindsight-plugins",
+      "categories": [
+        "data"
       ],
       "starGrowth7d": 0
     },
@@ -13197,6 +13894,14 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "wolfsonliu/dsh-file-explorer-preview-sequence",
+      "categories": [
+        "ui",
+        "developer-tools"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "Wongzexu/dsh-git-status",
       "categories": [
         "developer-tools",
@@ -13217,6 +13922,13 @@
         "media"
       ],
       "starGrowth7d": 3
+    },
+    {
+      "fullName": "WSGsety/dsh-plugin-manager",
+      "categories": [
+        "other"
+      ],
+      "starGrowth7d": 0
     },
     {
       "fullName": "WSL043/dsh-codex-subscription",
@@ -13392,6 +14104,20 @@
       "starGrowth7d": 1
     },
     {
+      "fullName": "XCKjacksparrow/dsh-weather",
+      "categories": [
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
+      "fullName": "XCNXNXNX/dsh-gamemode",
+      "categories": [
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "XCNXNXNX/dsh-portable-tavern",
       "categories": [
         "other"
@@ -13443,7 +14169,7 @@
         "ui",
         "developer-tools"
       ],
-      "starGrowth7d": 6
+      "starGrowth7d": 7
     },
     {
       "fullName": "xiaoheizi1212/dsh-computer-use",
@@ -13502,6 +14228,14 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "xiaoqiezi-china/dsh-music-player",
+      "categories": [
+        "media",
+        "agents"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "xiaoshihou514/dsh-tui",
       "categories": [
         "ui"
@@ -13545,7 +14279,7 @@
         "agents",
         "developer-tools"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "xiaoxianyu-office/dsh-skills-manager",
@@ -13559,7 +14293,7 @@
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "xiaoyuyu6420/dsh-backup",
@@ -13568,7 +14302,7 @@
         "data",
         "security"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "xiaozhe7772222/dsh-api-key-pool",
@@ -13584,7 +14318,7 @@
         "media",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "xiehuan123/dsh-deepread",
@@ -13641,11 +14375,19 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "xingke-seeker/dsh-ui-notify",
+      "categories": [
+        "media",
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "xingyingyuzhui/dsh-liquid-glass",
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "xingyingyuzhui/dsh-updater-ui",
@@ -13727,7 +14469,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "xmanrui/dsh-weixin",
@@ -13857,7 +14599,7 @@
         "developer-tools",
         "models"
       ],
-      "starGrowth7d": 10
+      "starGrowth7d": 11
     },
     {
       "fullName": "Yan-Zero/dsh-progressive-tools",
@@ -13988,6 +14730,13 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "yangzhe1991/dsh-web-enhance",
+      "categories": [
+        "ui"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "yascitom/dsh-opencode-go-box",
       "categories": [
         "developer-tools",
@@ -14010,7 +14759,7 @@
         "observability",
         "models"
       ],
-      "starGrowth7d": 11
+      "starGrowth7d": 13
     },
     {
       "fullName": "ycp424c/dsh-auto-fold-turn",
@@ -14084,8 +14833,8 @@
       "fullName": "yhlooo/dsh-bridges",
       "categories": [
         "integrations",
-        "developer-tools",
-        "models"
+        "agents",
+        "developer-tools"
       ],
       "starGrowth7d": 0
     },
@@ -14154,7 +14903,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 38
+      "starGrowth7d": 45
     },
     {
       "fullName": "YJSoooooo/dsh-chrome",
@@ -14250,6 +14999,14 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "YouHui1/dsh-image-skin",
+      "categories": [
+        "ui",
+        "media"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "youjiaqi421/dsh-plugin-workspace-rules",
       "categories": [
         "developer-tools",
@@ -14295,7 +15052,7 @@
         "models",
         "agents"
       ],
-      "starGrowth7d": 60
+      "starGrowth7d": 69
     },
     {
       "fullName": "YTxue/dsh-skill-manager-ytxue",
@@ -14369,7 +15126,7 @@
       "categories": [
         "other"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 2
     },
     {
       "fullName": "Yuki-takuya-kun/dsh-engine-switch",
@@ -14417,7 +15174,7 @@
         "data",
         "developer-tools"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "yun520-1/deepseek-heartflow",
@@ -14630,7 +15387,7 @@
         "developer-tools",
         "data"
       ],
-      "starGrowth7d": 5
+      "starGrowth7d": 7
     },
     {
       "fullName": "yzd6552-commits/dsh-browseruse",
@@ -14662,7 +15419,7 @@
         "observability",
         "models"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "YZz-S/dsh-update-checker",
@@ -14883,7 +15640,7 @@
       "categories": [
         "observability"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 4
     },
     {
       "fullName": "zhaiyateng/dsh-design-skills",
@@ -14980,6 +15737,14 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "ZhaoJun233/dsh-imagegen",
+      "categories": [
+        "media",
+        "models"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "zhaoscsc/dsh-wikilink",
       "categories": [
         "data"
@@ -15046,7 +15811,7 @@
         "ui",
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "ZhijiangTang/dsh-case",
@@ -15282,7 +16047,7 @@
       "categories": [
         "developer-tools"
       ],
-      "starGrowth7d": 2
+      "starGrowth7d": 4
     },
     {
       "fullName": "ziyou979/dsh-llm-oauth",
@@ -15291,7 +16056,7 @@
         "security",
         "agents"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "zjl88858/dsh-huadongbianzuqi",
@@ -15366,11 +16131,20 @@
       "starGrowth7d": 0
     },
     {
+      "fullName": "Zongwei9888/dsh-abyss",
+      "categories": [
+        "agents",
+        "models",
+        "observability"
+      ],
+      "starGrowth7d": 0
+    },
+    {
       "fullName": "zoumutou/dsh-cost-balance",
       "categories": [
         "observability"
       ],
-      "starGrowth7d": 1
+      "starGrowth7d": 2
     },
     {
       "fullName": "zouyuanqing/dsh-vision-primitives",
@@ -15434,14 +16208,14 @@
         "data",
         "integrations"
       ],
-      "starGrowth7d": 4
+      "starGrowth7d": 17
     },
     {
       "fullName": "ZSeven-W/dsh-openpencil",
       "categories": [
         "ui"
       ],
-      "starGrowth7d": 29
+      "starGrowth7d": 32
     },
     {
       "fullName": "ztl34245881-commits/dsh-task-planner",
@@ -15487,7 +16261,7 @@
         "integrations",
         "agents"
       ],
-      "starGrowth7d": 0
+      "starGrowth7d": 1
     },
     {
       "fullName": "zylzyqzz/dsh-mobile-pwa",
