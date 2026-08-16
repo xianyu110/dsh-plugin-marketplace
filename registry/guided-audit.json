@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T20:42:36.695Z",
-  "total": 573,
+  "generatedAt": "2026-08-16T22:42:39.813Z",
+  "total": 575,
   "groups": {
     "local-or-unparsed-command-only": 306,
-    "remote-command-found": 173,
-    "no-install-command-found": 94
+    "remote-command-found": 174,
+    "no-install-command-found": 95
   },
   "rows": [
     {
@@ -92,19 +92,19 @@
       "repository": "1052326311/dsh-plan-lattice",
       "packageName": "dsh-plan-lattice",
       "version": "0.4.0-rc.3",
-      "verifiedCommit": "dc55716525987fcb7cb46579a9c957877cbd23c2",
+      "verifiedCommit": "60c0f25c4a812d635d0fcce02edcd1f614089ef9",
       "readmePath": null,
       "commands": [
-        {
-          "raw": "dsh plugin --profile web add ./dsh-plan-lattice-0.3.0.tgz",
-          "profile": "web",
-          "spec": "./dsh-plan-lattice-0.3.0.tgz",
-          "source": "local"
-        },
         {
           "raw": "dsh plugin --profile web add ./dsh-plan-lattice-0.4.0-rc.3.tgz",
           "profile": "web",
           "spec": "./dsh-plan-lattice-0.4.0-rc.3.tgz",
+          "source": "local"
+        },
+        {
+          "raw": "dsh plugin --profile web add ./dsh-plan-lattice-0.3.0.tgz",
+          "profile": "web",
+          "spec": "./dsh-plan-lattice-0.3.0.tgz",
           "source": "local"
         },
         {
@@ -2110,7 +2110,7 @@
       "repository": "baiyingawa/everyconnect",
       "packageName": "everyconnect",
       "version": "0.4.3",
-      "verifiedCommit": "35460b0a73ba1dcac5be70088afd13bc8f6bc1ae",
+      "verifiedCommit": "096fb9f2910a9ecf6c6bc69ecb7027ec3ec3a0ac",
       "readmePath": null,
       "commands": [
         {
@@ -2991,6 +2991,64 @@
       "assessment": {
         "outcome": "guided-no-matching-remote-command",
         "reason": "readme-does-not-document-a-remote-install-for-this-package"
+      },
+      "current": {
+        "profiles": [
+          "web"
+        ],
+        "requiresBuildApproval": true,
+        "manualSteps": true,
+        "lifecycleScripts": [
+          "prepare"
+        ],
+        "runtimeArtifactsCommitted": false,
+        "reviewReasons": []
+      }
+    },
+    {
+      "repository": "BlockRunAI/dsh-clawrouter",
+      "packageName": "dsh-clawrouter",
+      "version": "0.10.1",
+      "verifiedCommit": "18fc2466cdea00d3854323b01756b51eec190029",
+      "readmePath": null,
+      "commands": [
+        {
+          "raw": "dsh plugin --profile web add dsh-clawrouter",
+          "profile": "web",
+          "spec": "dsh-clawrouter",
+          "source": "npm"
+        },
+        {
+          "raw": "dsh plugin add /path/to/dsh-clawrouter`) pulls this package's **devDependencies** into the profile, giving a second copy of `@deepseek-ai/dsh-llm`. `instanceof LlmError` then fails across the two copies and the harness reports every failure as `UNKNOWN` instead of its real code. Test error codes from a packed tarball (`npm pack`) rather than a link.",
+          "profile": null,
+          "spec": "/path/to/dsh-clawrouter",
+          "source": "local"
+        }
+      ],
+      "targetedCommands": [
+        {
+          "raw": "dsh plugin --profile web add dsh-clawrouter",
+          "profile": "web",
+          "spec": "dsh-clawrouter",
+          "source": "npm"
+        }
+      ],
+      "remoteCommands": [
+        {
+          "raw": "dsh plugin --profile web add dsh-clawrouter",
+          "profile": "web",
+          "spec": "dsh-clawrouter",
+          "source": "npm"
+        }
+      ],
+      "npmVerification": {
+        "verified": false,
+        "spec": "dsh-clawrouter@0.10.1",
+        "reason": "npm-version-not-published"
+      },
+      "assessment": {
+        "outcome": "guided-npm-unverified",
+        "reason": "npm-version-not-published"
       },
       "current": {
         "profiles": [
@@ -4262,7 +4320,7 @@
       "repository": "chnjames/dsh-plugin-market",
       "packageName": "dsh-plugin-market",
       "version": "0.3.0",
-      "verifiedCommit": "c810dec6339eb77a681596ed4a7d6d10ab770bc4",
+      "verifiedCommit": "aef721eb61b6f707fca21a7a9cea4fdc2b0d1bc4",
       "readmePath": null,
       "commands": [
         {
@@ -8822,7 +8880,7 @@
       "repository": "Harzva/harness-flow-hub",
       "packageName": "@harness-flow/dsh-flow-hub",
       "version": "0.0.2-m0",
-      "verifiedCommit": "a11be205e4fa6e00276ab9283d9a49248a3d3df2",
+      "verifiedCommit": "5859dec5aae42ef284c5056b499080fe355827c3",
       "readmePath": null,
       "commands": [],
       "targetedCommands": [],
@@ -14300,6 +14358,36 @@
         "reviewReasons": [
           "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
         ]
+      }
+    },
+    {
+      "repository": "monotykamary/dsh-fovea",
+      "packageName": "dsh-fovea",
+      "version": "0.2.0",
+      "verifiedCommit": "49cf90a773cedbbb83265a1e0965e8a24c4f4fad",
+      "readmePath": null,
+      "commands": [],
+      "targetedCommands": [],
+      "remoteCommands": [],
+      "npmVerification": {
+        "verified": false,
+        "spec": "dsh-fovea@0.2.0",
+        "reason": "npm-version-not-published"
+      },
+      "assessment": {
+        "outcome": "guided-no-matching-remote-command",
+        "reason": "readme-does-not-document-a-remote-install-for-this-package"
+      },
+      "current": {
+        "profiles": [
+          "headless",
+          "web"
+        ],
+        "requiresBuildApproval": true,
+        "manualSteps": true,
+        "lifecycleScripts": [],
+        "runtimeArtifactsCommitted": false,
+        "reviewReasons": []
       }
     },
     {
