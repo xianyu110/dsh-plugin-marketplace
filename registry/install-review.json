@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T22:36:08.543Z",
+  "generatedAt": "2026-08-17T01:54:53.989Z",
   "repositories": [
     {
       "repository": "030611/dsh-telemetry-redactor",
@@ -42,7 +42,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "030611/dsh-verification-receipt",
@@ -86,7 +86,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "030611/qiushi-dsh-evidence-audit",
@@ -130,7 +130,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "0xsline/dsh-spotlight",
@@ -182,7 +182,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "1123762794/dsh-web-restart",
@@ -278,7 +278,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "245678000000/dsh-shield",
@@ -320,7 +320,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "2710165659/dsh-web-plugin-explain",
@@ -369,7 +369,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "3274375092/dsh-voice",
@@ -420,7 +420,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "4mForAI/dsh-plain-plugin-menu",
@@ -471,7 +471,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "5102a/dsh-plugin-hot-toggle",
@@ -523,7 +523,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "54xkeee/dsh-vision",
@@ -572,7 +572,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "54xkeee/dsh-youreyes",
@@ -621,7 +621,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "609476965/dsh-LorebookMD",
@@ -670,7 +670,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "610la/dsh-notification-center",
@@ -719,7 +719,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "781316853/dsh-provider-quota",
@@ -771,7 +771,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "7dgroup-ai/dsh-skill-7d-code-reviewer",
@@ -781,10 +781,9 @@
         "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
       ],
       "profiles": [
-        "headless",
-        "web"
+        "tui"
       ],
-      "profileSource": "readme-any",
+      "profileSource": "readme",
       "lifecycleScripts": [
         "prepare"
       ],
@@ -805,7 +804,9 @@
         "directNpm": true,
         "anyProfile": true,
         "requiresBuildApproval": true,
-        "profiles": [],
+        "profiles": [
+          "tui"
+        ],
         "specs": [
           "github:7dgroup-ai/dsh-skill-7d-code-reviewer",
           "git+https://github.com/7dgroup-ai/dsh-skill-7d-code-reviewer.git",
@@ -816,7 +817,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "9087/dsh-diff-approval",
@@ -867,7 +868,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "a179-sanae/dsh-code-check",
@@ -911,7 +912,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "a1swg1159-pixel/dsh-prompt-shield",
@@ -955,7 +956,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "a792883583/dsh-chat-toc",
@@ -1004,7 +1005,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "a792883583/dsh-cron-panel",
@@ -1053,7 +1054,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "a792883583/dsh-git-panel",
@@ -1102,7 +1103,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "acefun29/dsh-file-mount",
@@ -1153,7 +1154,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "AHGGG/dsh-side-chat",
@@ -1202,7 +1203,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ahikl/dsh-desktop",
@@ -1244,7 +1245,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ai-eks/dsh-auth-tunnel",
@@ -1288,7 +1289,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "aka-danielZhang/dsh-mcp-settings",
@@ -1340,7 +1341,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "akslcw/dsh-negative-ledger",
@@ -1381,7 +1382,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "amlyczz/dsh-lark-link",
@@ -1431,7 +1432,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "andiven/dsh-messaging",
@@ -1475,7 +1476,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Andrietteprotective835/dsh-mcp-lens",
@@ -1516,7 +1517,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Anestis271/dsh-desktop",
@@ -1567,7 +1568,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ang-XWBWZ/dsh-approval-ai",
@@ -1616,7 +1617,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "AnothetLoice/dsh-hotplug-engine",
@@ -1661,7 +1662,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "anweat/dsh-assistant-message-forge",
@@ -1708,7 +1709,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "anweat/dsh-browser",
@@ -1752,7 +1753,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "anweat/dsh-restart",
@@ -1799,7 +1800,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "anweat/dsh-voice-webspeech",
@@ -1850,7 +1851,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "anweat/dsh-web-search-pro",
@@ -1894,7 +1895,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "anysearch-team/anysearch-dsh",
@@ -1938,7 +1939,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "apheli0os/deepseek-harness-orchestrate",
@@ -1980,7 +1981,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "aqsk-BLG/dsh-memory",
@@ -2023,7 +2024,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Argonaut790/dsh-deepseek-vision",
@@ -2070,7 +2071,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "aryswisnu/dsh-eval-regression",
@@ -2113,7 +2114,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Asaiuta/dsh-custom-header",
@@ -2158,7 +2159,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Asaiuta/dsh-session-hub",
@@ -2210,7 +2211,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Asher-2000/dsh-expert-mode",
@@ -2254,7 +2255,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "astra3294/dsh-doctor",
@@ -2303,7 +2304,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ayahunter/dsh-plugin-clinic",
@@ -2355,7 +2356,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "az7627/dsh-mobile-remote",
@@ -2404,7 +2405,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "az7627/dsh-token-usage",
@@ -2453,7 +2454,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "beiyege-01/dsh-voice-ai-girlfriend-plugin",
@@ -2504,7 +2505,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "belowthetree/dsh-mcp-setting",
@@ -2553,7 +2554,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ben7am1n/dsh-lens-lite",
@@ -2597,7 +2598,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ben7am1n/dsh-mcp-proxy",
@@ -2641,7 +2642,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ben7am1n/dsh-memory",
@@ -2685,7 +2686,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "BiBoyang/dsh-eval-harness",
@@ -2729,7 +2730,7 @@
           "boyang/dsh-eval-harness"
         ]
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "bigclawd/dsh-security-guard",
@@ -2773,7 +2774,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "bill9109/dsh-drag-and-drop",
@@ -2871,7 +2872,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Blaczz/dsh-achievements",
@@ -2964,7 +2965,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "blue-a11y/dsh-client-shortcuts",
@@ -3015,7 +3016,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "bluefateludi/dsh-agent-run-logger",
@@ -3056,7 +3057,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "bobleer/deepseek-harness-plugin-mcp",
@@ -3100,7 +3101,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "boboozeng/dsh-annotation-plugin",
@@ -3149,7 +3150,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "bocha-ai/dsh-web-search-bocha",
@@ -3191,7 +3192,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "boogoo619/dsh-focus-overlay",
@@ -3243,7 +3244,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "bowenliang123/dsh-context",
@@ -3294,7 +3295,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "boxeryao/dsh-mini-tui",
@@ -3336,7 +3337,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "bugmaker2/dsh-plugin-template",
@@ -3377,7 +3378,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "bujue600-arch/dsh-testgen",
@@ -3421,7 +3422,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cakeni/harness-pet",
@@ -3473,7 +3474,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Cassius0924/dsh-usage-dashboard",
@@ -3525,7 +3526,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ccch1mneyyy/dsh-TUI",
@@ -3569,7 +3570,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cchenbin042/yuque-notes-plugin",
@@ -3613,7 +3614,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "CH4ACKO3/dsh-ui-container",
@@ -3664,7 +3665,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "CH4ACKO3/dsh-ui-workspace",
@@ -3715,7 +3716,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "chancelu/dsh-llmwiki",
@@ -3757,7 +3758,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "chaos-03x/dsh-agy",
@@ -3801,7 +3802,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "CharlotteN7/dsh-dlp",
@@ -3842,7 +3843,48 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "CharlotteN7/dsh-netguard",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "headless",
+        "web"
+      ],
+      "profileSource": "readme-any",
+      "lifecycleScripts": [],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": false,
+        "directNpm": true,
+        "anyProfile": true,
+        "requiresBuildApproval": false,
+        "profiles": [],
+        "specs": [
+          "dsh-netguard"
+        ],
+        "verifiedGitHubRepositories": [
+          "CharlotteN7/dsh-netguard"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "CharlotteN7/dsh-ocsf-forwarder",
@@ -3883,7 +3925,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ChenRuoT/dsh-sidebar-qa",
@@ -3934,7 +3976,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "chenw2759-wq/dsh-plugin-healthcheck",
@@ -3981,7 +4023,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cheshireez/dsh-skill-hub",
@@ -4030,7 +4072,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "CHF-hub99/dsh-plugin-manager",
@@ -4133,7 +4175,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "chinosk6/dsh-roleplay",
@@ -4186,7 +4228,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "chnjames/dsh-plugin-market",
@@ -4237,7 +4279,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "chouyong/dsh-fork-graph",
@@ -4288,7 +4330,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Clearchenpro/dsh-file-browser",
@@ -4335,7 +4377,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Clizo1209/dsh-playwright-browser",
@@ -4379,7 +4421,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cnyac/dsh-polling",
@@ -4431,7 +4473,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cocofhu/anime-find",
@@ -4482,7 +4524,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cocofhu/skillhub",
@@ -4534,7 +4576,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "CodePrometheus/dsh-observability",
@@ -4576,7 +4618,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "coderdailyone/dsh-plugin-browser-use",
@@ -4618,7 +4660,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "coderdailyone/dsh-plugin-web-search-tavily",
@@ -4660,7 +4702,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cogine-ai/dsh-claude-tui",
@@ -4699,7 +4741,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "coolbreezecoin/dsh-wechat-mp",
@@ -4750,7 +4792,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "crazywoola/dsh-balance",
@@ -4801,7 +4843,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "creativedswork/dsh-mcp-apps",
@@ -4850,7 +4892,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cute-baobao/dsh-usage-meter",
@@ -4899,7 +4941,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cyanfish-x/dsh-live2d-pets",
@@ -4950,7 +4992,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "cyberlieflife/dsh-model-thinking",
@@ -5001,7 +5043,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Czerror/dsh-plugin-prompt-tool",
@@ -5011,9 +5053,9 @@
         "exact-npm-tarball-verified-for-automatic-install"
       ],
       "profiles": [
-        "web"
+        "prompt-tool"
       ],
-      "profileSource": "client",
+      "profileSource": "readme",
       "lifecycleScripts": [
         "prepare"
       ],
@@ -5036,19 +5078,23 @@
       ],
       "readme": {
         "found": true,
-        "directRemote": false,
+        "directRemote": true,
         "directGitHub": false,
-        "directNpm": false,
+        "directNpm": true,
         "anyProfile": false,
         "requiresBuildApproval": false,
-        "profiles": [],
-        "specs": [],
+        "profiles": [
+          "prompt-tool"
+        ],
+        "specs": [
+          "dsh-plugin-prompt-tool"
+        ],
         "verifiedGitHubRepositories": [
           "Czerror/dsh-plugin-prompt-tool"
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "czm15053/dsh-peer-link",
@@ -5097,7 +5143,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "D4Cluv-Train/dsh-plugin-manager",
@@ -5149,7 +5195,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dami9527/dsh-image-pathify",
@@ -5201,7 +5247,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "DamonBao/dsh-codex-provider-plugin",
@@ -5253,7 +5299,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "danglong0313/dsh-history-sync",
@@ -5304,7 +5350,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Dariandai/dsh-starter-pack",
@@ -5356,7 +5402,102 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "dd2673/dsh-rtk",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "demo"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "demo"
+        ],
+        "specs": [
+          "github:dd2673/dsh-rtk#<commit-sha>"
+        ],
+        "verifiedGitHubRepositories": [
+          "dd2673/dsh-rtk"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "Dely0/dsh-workbench",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "git+https://github.com/Dely0/dsh-workbench.git"
+        ],
+        "verifiedGitHubRepositories": [
+          "Dely0/dsh-workbench"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "devmom/dsh-session-import",
@@ -5401,7 +5542,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "DfsyJian/dsh-snapshot",
@@ -5452,7 +5593,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dfycaly98931680/dsh-trajectory-governance",
@@ -5503,7 +5644,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dickpy/dsh-imagegen",
@@ -5552,7 +5693,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "DietCokewithSugar/dsh-user-experience",
@@ -5604,7 +5745,56 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "Dingpenghui-good/dsh-conversation-language",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "https://github.com/Dingpenghui-good/dsh-conversation-language"
+        ],
+        "verifiedGitHubRepositories": [
+          "Dingpenghui-good/dsh-conversation-language"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dingyi222666/dsh-agents-md",
@@ -5655,7 +5845,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dingyi222666/dsh-focus-chat",
@@ -5706,7 +5896,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dingyi222666/dsh-session-notification",
@@ -5757,7 +5947,53 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "dingyi222666/dsh-wakatime",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "headless",
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": false,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "headless",
+          "web"
+        ],
+        "specs": [
+          "@dingyi222666/dsh-wakatime"
+        ],
+        "verifiedGitHubRepositories": [
+          "dingyi222666/dsh-wakatime"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "DLive/dsh-qqbot-community",
@@ -5800,7 +6036,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "doebkblcya/dsh-workbench",
@@ -5849,7 +6085,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "DosterBool/dsh-ocr-seam-guard",
@@ -5939,7 +6175,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "drfccv/dsh-mcp-center",
@@ -5990,7 +6226,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "drfccv/dsh-theme-neko",
@@ -6041,7 +6277,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Drifter-yh/dsh-tool-policy",
@@ -6085,7 +6321,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-market/dsh-market",
@@ -6136,7 +6372,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-mixxed/dsh-client-ui-filesystem",
@@ -6185,7 +6421,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-mixxed/dsh-client-ui-filesystem-manager",
@@ -6234,7 +6470,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-mixxed/dsh-client-ui-git-branch",
@@ -6283,7 +6519,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-mixxed/dsh-client-ui-settings-mcp",
@@ -6332,7 +6568,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-mixxed/dsh-client-ui-settings-skills",
@@ -6381,7 +6617,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-plugins/dsh-auxiliary",
@@ -6428,7 +6664,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-tui-ecosystem/dsh-code-memory",
@@ -6470,7 +6706,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "dsh-tui/dsh-tui",
@@ -6514,7 +6750,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ECHOUniverse/dshacp",
@@ -6558,7 +6794,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "eddiehuang227-source/live-talk",
@@ -6605,7 +6841,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ellelkktrraaa/dsh-audio-alert",
@@ -6656,7 +6892,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "erduotong/dsh-plugin-graph",
@@ -6707,7 +6943,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Ericwong5021/dsh-kanban",
@@ -6755,7 +6991,59 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "eurt-nano/dsh-cache-cost-monitor",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "https://github.com/eurt-nano/dsh-cache-cost-monitor.git#main",
+          "https://github.com/eurt-nano/dsh-cache-cost-monitor.git#v0.2.0"
+        ],
+        "verifiedGitHubRepositories": [
+          "eurt-nano/dsh-cache-cost-monitor"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "EveGoodEvening/dsh-autoresearch",
@@ -6796,7 +7084,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "EveGoodEvening/dsh-llmwiki",
@@ -6838,7 +7126,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "extension-hunter/dsh-authorize-app",
@@ -6887,7 +7175,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "extension-hunter/dsh-pip",
@@ -6929,7 +7217,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Fallen0543/dsh-sidebar-files",
@@ -6980,7 +7268,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "FANXING-0710/dsh-web-search-opencode",
@@ -7025,7 +7313,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Favio8/dsh-plugin-deepeye",
@@ -7069,7 +7357,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "fazhu4/dsh-activity-report",
@@ -7118,7 +7406,56 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "FeatherHunter/dsh-prompt",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": "lib/index.js"
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": false,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "dsh-prompt"
+        ],
+        "verifiedGitHubRepositories": [
+          "FeatherHunter/dsh-prompt"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "february2015/dsh-dingo",
@@ -7167,7 +7504,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "findshan/dsh-agent-memory",
@@ -7209,7 +7546,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "FlowerWater1019/Angelina-dsh-plugin",
@@ -7260,7 +7597,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "FlutterSoul/dsh-git-workbench",
@@ -7311,7 +7648,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "fly3366/dsh-o11y-plugin",
@@ -7355,7 +7692,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "flyHZJ/dsh-turn-nav",
@@ -7405,7 +7742,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "fulander0301/dsh-tool-read-tiff",
@@ -7449,7 +7786,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "FURO2170/dsh-ui-manager",
@@ -7500,7 +7837,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "FuRongJun-1999/dsh-memory",
@@ -7542,7 +7879,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "gameswu/dsh-plugin-background",
@@ -7593,7 +7930,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "gameswu/dsh-plugin-vscode-sidebar",
@@ -7644,7 +7981,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "genusamblyrhynchusbrunooftoul602/dsh-attachment-formats",
@@ -7738,7 +8075,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Ghost011118/dsh-balance-meter",
@@ -7789,7 +8126,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GodD6366/dsh-sub2api",
@@ -7840,7 +8177,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GongYuanCaiJi/dsh-baoyu-skills",
@@ -7881,7 +8218,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GongYuanCaiJi/dsh-changelog",
@@ -7924,7 +8261,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GongYuanCaiJi/dsh-chinese-thinking",
@@ -7965,7 +8302,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GongYuanCaiJi/dsh-claude-code-templates",
@@ -8006,7 +8343,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GongYuanCaiJi/dsh-claude-octopus",
@@ -8049,7 +8386,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GongYuanCaiJi/dsh-extension-workbook",
@@ -8092,7 +8429,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GongYuanCaiJi/dsh-simplify",
@@ -8135,7 +8472,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "gooosie/dsh-whale-bg",
@@ -8186,7 +8523,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "green-dalii/dsh-shift-router",
@@ -8235,7 +8572,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "GULI-lab/DSH-element-source",
@@ -8286,7 +8623,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "gxinxing/deepseek-harness-tui",
@@ -8327,7 +8664,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "haifeiWu/dsh-deepseek-usage",
@@ -8372,7 +8709,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "haiziyao/dsh-vision-mix",
@@ -8423,7 +8760,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hajimixiaojie/dsh-command-palette",
@@ -8468,7 +8805,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hajimixiaojie/dsh-lens",
@@ -8513,7 +8850,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hanzhangzzz/dsh-diagram",
@@ -8562,7 +8899,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Happy2Git/dsh-compass",
@@ -8613,7 +8950,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "happyren/dsh-agent-messaging",
@@ -8665,7 +9002,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "haxi8/dsh-JujutsuKaisen-rainlove",
@@ -8716,7 +9053,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hccccc01333/dsh-analytics",
@@ -8767,7 +9104,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "healing1/dsh-balance-meter",
@@ -8816,7 +9153,7 @@
           "Ghost011118/dsh-balance-meter"
         ]
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "healing1/dsh-web-plugin-manager",
@@ -8865,7 +9202,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "heartmove/dsh-side-chat",
@@ -8916,7 +9253,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "highland0971/dsh-native-memory",
@@ -8965,7 +9302,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hiyms/dsh-web-search-provider",
@@ -9006,7 +9343,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hjqcan/dsh-goodmemory",
@@ -9050,7 +9387,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Hongcheng-LI/dsh-zotero",
@@ -9094,7 +9431,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "HongMing-Huang/dsh-file-upload",
@@ -9143,7 +9480,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hongyue0721/dsh-kimicode-swarm",
@@ -9192,7 +9529,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Hoshino-Yumetsuki/dsh-onebot",
@@ -9241,7 +9578,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "HR2AY/DSH-Plan-Graph",
@@ -9292,7 +9629,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Huasfan/dsh-tool-git",
@@ -9336,7 +9673,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "huguangyu666/dsh-plugin-notify",
@@ -9385,7 +9722,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "humblebanana/dsh-record-replay",
@@ -9424,7 +9761,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hyls9527/dsh-local-vision",
@@ -9463,7 +9800,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Hyna-hla/DSH-DELETE",
@@ -9510,7 +9847,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Hyp6666/dsh-open-eyes",
@@ -9560,7 +9897,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Hyperionjust/dsh-tool-underseal",
@@ -9603,7 +9940,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "hyperMoss/dsh-diary",
@@ -9652,7 +9989,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "iamzcr/dsh-obsidian-assistant",
@@ -9693,7 +10030,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "idkidknow/dsh-node-repl",
@@ -9744,7 +10081,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ihuajiu/dsh-plugins-finder",
@@ -9794,7 +10131,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "iiwish/dsh-testkit",
@@ -9836,7 +10173,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ilharp/dsh-tool-approval",
@@ -9878,7 +10215,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "imkingjh999/dsh-shorts-wall",
@@ -9929,7 +10266,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "inmny/dsh-git-bash",
@@ -9979,7 +10316,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "inmny/dsh-sandbox-escalation-fix",
@@ -10022,7 +10359,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "izz-BLUE/dsh-devtools",
@@ -10071,7 +10408,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JackeyWilder/dsh-file-picker",
@@ -10121,7 +10458,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Jamailar/beav-deepseek-harness",
@@ -10170,7 +10507,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JeremyGuo/dsh-playwright",
@@ -10219,7 +10556,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Jesse-njx/dsh-chatnode-wechat",
@@ -10260,7 +10597,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "jianweideng0515-create/dsh-usage-stats",
@@ -10311,7 +10648,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "jiaoqsh/dsh-document",
@@ -10355,7 +10692,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "jiezeng2004-design/dsh-requirements-alignment",
@@ -10397,7 +10734,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JimLuan/dsh-tui-plugin",
@@ -10439,7 +10776,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JinkaiLiu/dsh-autonomy",
@@ -10490,7 +10827,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JinPLu/dsh-plugin-discussion-intent",
@@ -10541,7 +10878,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "jinsiyu/dsh-webproxy-router-plugin",
@@ -10593,7 +10930,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "jiruidai/dsh-meta-orchestrator",
@@ -10640,7 +10977,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "jkrandom-sudo/dsh-ci-doctor",
@@ -10682,7 +11019,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "jkrandom-sudo/dsh-plugin-audit",
@@ -10725,7 +11062,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JohnXu22786/adversarial-review",
@@ -10769,7 +11106,49 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "JohnXu22786/model-catalog",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "demo"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "dist/src/dsh.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "demo"
+        ],
+        "specs": [
+          "github:JohnXu22786/model-catalog"
+        ],
+        "verifiedGitHubRepositories": [
+          "JohnXu22786/model-catalog"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JohnXu22786/notifier",
@@ -10816,7 +11195,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JohnXu22786/skill-framework",
@@ -10858,7 +11237,51 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "JohnXu22786/snippet-expander",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "demo"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "dist/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "demo"
+        ],
+        "specs": [
+          "github:JohnXu22786/snippet-expander"
+        ],
+        "verifiedGitHubRepositories": [
+          "JohnXu22786/snippet-expander"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JohnXu22786/task-board",
@@ -10902,7 +11325,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "JUANWANG-BUAA/dsh-full-remote",
@@ -10953,7 +11376,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "juhe291/dsh-token-panel",
@@ -11005,7 +11428,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Julyves/dsh-git-ui",
@@ -11056,7 +11479,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "jumpserver-east/jumpserver-dsh",
@@ -11100,7 +11523,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Kaiji-Z/dsh-plugin-lookatstudy",
@@ -11145,7 +11568,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kairoz9/dsh-mcp-admin",
@@ -11196,7 +11619,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kamilhzn/dsh-file-upload",
@@ -11245,7 +11668,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kanchengw/dsh-mindseye",
@@ -11294,7 +11717,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kangshifu1/dsh-record-replay",
@@ -11343,7 +11766,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "KarlOfLaw/dsh-side-chat",
@@ -11390,7 +11813,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "karuboniru/dsh-approval-guardian",
@@ -11435,7 +11858,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kerwin2046/dsh-pin-recall",
@@ -11526,7 +11949,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Kevoyuan/dsh-skill-fuzzy",
@@ -11575,7 +11998,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kiim-wong/dsh-push",
@@ -11622,7 +12045,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kirkchinese/claude2dsh",
@@ -11661,7 +12084,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kirkchinese/DSH-Session-Move",
@@ -11702,7 +12125,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kk99668/dsh-mobile-access",
@@ -11747,7 +12170,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "KKLL2025/dsh-project-anchor",
@@ -11791,7 +12214,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "knowhycodata/dsh-plugin-llmtr",
@@ -11830,7 +12253,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "knqiufan/powercontext-dsh",
@@ -11871,7 +12294,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "kriskwok/dsh-feishu-gateway",
@@ -11910,7 +12333,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ktziy/dsh-plugin-factory",
@@ -11955,7 +12378,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "labmimors/dsh-mcp-lens",
@@ -12001,7 +12424,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lakeofsky347/dsh-vision",
@@ -12045,7 +12468,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lanlandeli/dsh-usage-stats",
@@ -12094,7 +12517,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Laplace-bit/dsh-bell-notify",
@@ -12145,7 +12568,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Laplace-bit/dsh-smooth-stream",
@@ -12196,7 +12619,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "le-soleil-se-couche/dsh-token-cost",
@@ -12247,7 +12670,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lee259/dsh-workbench",
@@ -12298,7 +12721,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "left0ver/dsh-file-review",
@@ -12348,7 +12771,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "LemCAE/dsh-balance",
@@ -12399,7 +12822,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lengduan/dsh-815-skin",
@@ -12448,7 +12871,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "leo-lab-2026/dsh-lark-bridge",
@@ -12491,7 +12914,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Letter2025/dsh-approval-llm",
@@ -12533,7 +12956,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Letter2025/dsh-model-failover",
@@ -12575,7 +12998,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Letter2025/dsh-tool-search",
@@ -12617,7 +13040,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "levi-qiao/dsh-plugin-longgraph",
@@ -12662,7 +13085,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "levi52/dsh-appearance",
@@ -12710,7 +13133,58 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "lhwu1/dsh-lookseek",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/host/index.mjs"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "github:lhwu1/dsh-lookseek"
+        ],
+        "verifiedGitHubRepositories": [
+          "lhwu1/dsh-lookseek"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Lhy723/dsh-agent-canvas",
@@ -12755,7 +13229,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Lhy723/dsh-neu-theme",
@@ -12804,7 +13278,59 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "lijian-ui/dsh-im-gateway",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "@lijian-ui/dsh-im-gateway",
+          "github:lijian-ui/dsh-im-gateway"
+        ],
+        "verifiedGitHubRepositories": [
+          "lijian-ui/dsh-im-gateway"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lijma/dsh-plugin-marketplace",
@@ -12853,7 +13379,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "LimBoo233/dsh-web-extras",
@@ -12904,7 +13430,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lin-cheng-lab/dsh-deepseek-balance",
@@ -12951,7 +13477,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "LingLambda/dsh-logger-panel",
@@ -13003,7 +13529,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "LingLambda/dsh-undo",
@@ -13055,7 +13581,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "linhx1999/dsh-writing-pad",
@@ -13106,7 +13632,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "linyp/dsh-plugin-langfuse",
@@ -13148,7 +13674,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "literaf/dsh-academy",
@@ -13192,7 +13718,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "literaf/dsh-ai4scholar",
@@ -13244,7 +13770,133 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "literaf/dsh-paper-slides",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "headless",
+        "web"
+      ],
+      "profileSource": "unknown",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": false,
+        "directGitHub": false,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [],
+        "specs": [],
+        "verifiedGitHubRepositories": [
+          "literaf/dsh-paper-slides"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "literaf/dsh-research",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "headless",
+        "web"
+      ],
+      "profileSource": "unknown",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": false,
+        "directGitHub": false,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [],
+        "specs": [],
+        "verifiedGitHubRepositories": [
+          "literaf/dsh-research"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "literaf/dsh-slides",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": false,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "dsh-slides"
+        ],
+        "verifiedGitHubRepositories": [
+          "literaf/dsh-slides"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Liu-ty/dsh-balance-display",
@@ -13295,7 +13947,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "liuup/dsh-latex-tools",
@@ -13347,7 +13999,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "LKMeng2001/dsh-mcp-market",
@@ -13396,7 +14048,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lmst2/dsh-asc",
@@ -13440,7 +14092,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "LoftyTao/dsh-ui-workbench",
@@ -13491,7 +14143,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lonelymoon87/dsh-code-intel",
@@ -13536,7 +14188,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lonelymoon87/dsh-gitflow",
@@ -13581,7 +14233,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lonelymoon87/dsh-guardian",
@@ -13626,7 +14278,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lonelymoon87/dsh-specflow",
@@ -13671,7 +14323,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "loongsuite/dsh-plugin",
@@ -13715,7 +14367,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lovetree128/dsh-git-gui",
@@ -13767,7 +14419,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lqhl/dsh-pi-tui",
@@ -13811,7 +14463,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "luoyu-xingu/dsh-multi-root",
@@ -13860,7 +14512,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "luoyuejun9/dsh-cinematic-workflow",
@@ -13899,7 +14551,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "luoyuejun9/dsh-project-memory",
@@ -13941,7 +14593,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "luoyuejun9/dsh-workstate",
@@ -13983,7 +14635,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lussey820/dsh-http-tools",
@@ -14025,7 +14677,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "luzhengyangtx/dsh-telegram-duty",
@@ -14075,7 +14727,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "LuZhouheng/dsh-gen3d",
@@ -14120,7 +14772,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "LX2000WASD/dsh-web-plugin-manager",
@@ -14169,7 +14821,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lx963/dsh-webui-background",
@@ -14218,7 +14870,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lxj808624/dsh-tool-git",
@@ -14263,7 +14915,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ly6170/dsh-messager",
@@ -14310,7 +14962,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lywusichen/dsh-skill-panel",
@@ -14357,7 +15009,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "lzylyd/dsh-dracula",
@@ -14406,7 +15058,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "madage/dsh-self-improved",
@@ -14458,7 +15110,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MagicCrazyMan/dsh-password-prompt",
@@ -14512,7 +15164,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Mars-Sea/dsh-commandcode-provider",
@@ -14566,7 +15218,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mattismegevand/dsh-dock",
@@ -14618,7 +15270,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mattismegevand/dsh-git",
@@ -14670,7 +15322,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mattismegevand/dsh-open",
@@ -14722,7 +15374,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mattismegevand/dsh-terminal",
@@ -14774,7 +15426,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Max-Null/dsh-chinese-thinking",
@@ -14813,7 +15465,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Max-Null/dsh-guardian",
@@ -14854,7 +15506,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Max-Null/dsh-habit",
@@ -14895,7 +15547,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Max-Null/dsh-memory",
@@ -14934,7 +15586,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Max-Samson/dsh-usage-chart",
@@ -14987,7 +15639,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MaxHou-infinity/dsh-scout",
@@ -15031,7 +15683,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "maxwell-feng/dsh-tesseract-ocr",
@@ -15072,7 +15724,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "maxwell-feng/dsh-windows-ocr",
@@ -15113,7 +15765,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "meilulin/dsh-moa",
@@ -15162,7 +15814,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "meltartica/dsh-mcp-servers",
@@ -15207,7 +15859,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Memory455/dsh-jump-rail",
@@ -15259,7 +15911,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "menghuanshiguang/dsh-mobileshare",
@@ -15310,7 +15962,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MichengAI/dsh-codex-ui",
@@ -15359,7 +16011,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MicroHEROX/dsh-koboldcpp-hands",
@@ -15400,7 +16052,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MicroHEROX/dsh-unsloth-hands",
@@ -15444,7 +16096,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MimicHunterZ/dsh-agent-compact",
@@ -15486,7 +16138,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mindcarver/dsh-codex-canvas",
@@ -15537,7 +16189,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mingzeng21/dsh-notion",
@@ -15583,7 +16235,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mingzeng21/dsh-obsidian",
@@ -15627,7 +16279,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mishiqian/lan-im",
@@ -15678,7 +16330,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mitian233/dsh-plugin-commandcode-provider",
@@ -15727,7 +16379,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mizuhara37/dsh-nene-theme",
@@ -15779,7 +16431,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "mojiexuan/dsh-git",
@@ -15828,7 +16480,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MOLAaaaaaaa/dsh-seismicx",
@@ -15877,7 +16529,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Mombrane/dsh-subagent-monitor",
@@ -15927,7 +16579,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Momojie-S/dsh-subagent-model",
@@ -15971,7 +16623,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Momojie-S/dsh-workspace-env",
@@ -16015,7 +16667,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Momojie-S/dsh-workspace-mcp",
@@ -16059,7 +16711,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MoonShadow1976/chiral-pulse",
@@ -16108,7 +16760,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Moraxyc/dsh-cpa",
@@ -16159,7 +16811,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MostlyHarmlessxyz/dsh-safe-web-fetch",
@@ -16207,7 +16859,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Moximxxx/dsh-find-skill",
@@ -16249,7 +16901,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "MRZHUH/dsh-remote-server",
@@ -16301,7 +16953,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "my-dsh-plugin/thinking-level-override",
@@ -16348,7 +17000,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Nacocx/dsh-ui-context-menu",
@@ -16399,7 +17051,59 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "Nalleyer/dsh-enter-send",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "github:Nalleyer/dsh-enter-send",
+          "dsh-enter-send"
+        ],
+        "verifiedGitHubRepositories": [
+          "Nalleyer/dsh-enter-send"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "NanmiCoder/dsh-agent-teams",
@@ -16448,7 +17152,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "NanmiCoder/dsh-auto-mode",
@@ -16497,7 +17201,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "NanmiCoder/dsh-plugin-market",
@@ -16546,7 +17250,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "nevertoday/dsh-theme-plugin",
@@ -16597,7 +17301,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "NexusAgentX/dsh-lens",
@@ -16647,7 +17351,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "NexusAgentX/dsh-mcp-adapter",
@@ -16696,7 +17400,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "NexusAgentX/dsh-web-access",
@@ -16745,7 +17449,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "niyongsheng/free-vision-skill",
@@ -16792,7 +17496,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "no1xsyzy/dsh-webview-wrapper",
@@ -16836,7 +17540,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "NoNameLeGo/dsh-catppuccin-theme",
@@ -16888,7 +17592,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "noone89A/dsh-gauge",
@@ -16937,7 +17641,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Nunchakus888/dsh-turn-budget",
@@ -16976,7 +17680,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Nuo-cl/dsh-auto-mode",
@@ -17018,7 +17722,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Octo-o-o-o/dsh-plugin-prune",
@@ -17069,7 +17773,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/dsh-advisor",
@@ -17122,7 +17826,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/DSH-better-sidebar",
@@ -17173,7 +17877,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/dsh-cron",
@@ -17224,7 +17928,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/dsh-lark",
@@ -17268,7 +17972,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/dsh-llm-fallbacks",
@@ -17321,7 +18025,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/dsh-mnemon",
@@ -17372,7 +18076,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/dsh-office",
@@ -17413,7 +18117,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/dsh-sidechain",
@@ -17465,7 +18169,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-dev/dsh-toolkit",
@@ -17507,7 +18211,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-plugins/omdsh-base",
@@ -17558,7 +18262,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-plugins/omdsh-justchat",
@@ -17610,7 +18314,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "omdsh-plugins/omdsh-plughub",
@@ -17662,7 +18366,58 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "omicverse/dsh-omicos",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/host/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": false,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "@omicverse/dsh-omicos"
+        ],
+        "verifiedGitHubRepositories": [
+          "omicverse/dsh-omicos"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "oneinitAI/dsh-settings-plus",
@@ -17709,7 +18464,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "openAGFS/dsh-agfs",
@@ -17752,7 +18507,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "OpenTritium/dsh-codex-shim",
@@ -17799,7 +18554,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Opr4Mp3r/deepseek-harness-plugin-from-scratch",
@@ -17843,7 +18598,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Ox0400/dsh-vault",
@@ -17895,7 +18650,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "pan17/dsh-wechat",
@@ -17942,7 +18697,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PandaPolo/dsh-voice-call",
@@ -17993,7 +18748,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Pasumao/dsh-plugin-workbench",
@@ -18045,7 +18800,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "peng-huiyang/cronjob-dsh-plugin",
@@ -18096,7 +18851,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "pengpengyi92/dsh-quant",
@@ -18135,7 +18890,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "pengyue-polaron/deepseek-harness-genui",
@@ -18184,7 +18939,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-auto-review",
@@ -18236,7 +18991,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-budget",
@@ -18288,7 +19043,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-click",
@@ -18333,7 +19088,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-composer-history",
@@ -18378,7 +19133,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-defend",
@@ -18423,7 +19178,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-draw",
@@ -18475,7 +19230,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-library",
@@ -18520,7 +19275,52 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "PerryLink/dsh-local-ai",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "github:PerryLink/dsh-local-ai#main",
+          "dsh-local-ai"
+        ],
+        "verifiedGitHubRepositories": [
+          "PerryLink/dsh-local-ai"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-lsp-actions",
@@ -18563,7 +19363,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-mcp-panel",
@@ -18615,7 +19415,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-observe",
@@ -18660,7 +19460,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-output-styles",
@@ -18709,7 +19509,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-permission-rules",
@@ -18760,7 +19560,52 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "PerryLink/dsh-score",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "github:PerryLink/dsh-score#<commit-sha>",
+          "dsh-score"
+        ],
+        "verifiedGitHubRepositories": [
+          "PerryLink/dsh-score"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-session-pin",
@@ -18807,7 +19652,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PerryLink/dsh-talk",
@@ -18859,7 +19704,52 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "PerryLink/dsh-test-drive",
+      "status": "needs-review",
+      "mode": "guided",
+      "reasons": [
+        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": true,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "github:PerryLink/dsh-test-drive#<commit-sha>",
+          "dsh-test-drive"
+        ],
+        "verifiedGitHubRepositories": [
+          "PerryLink/dsh-test-drive"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PGZXB/dsh-feishu",
@@ -18901,7 +19791,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Phant0Meow/dsh-memory-meow",
@@ -18946,7 +19836,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Physicolor/harness-ui-enhancer",
@@ -18997,7 +19887,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Physicolor/harness-widgets",
@@ -19048,7 +19938,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PicGo/dsh-plugin",
@@ -19092,7 +19982,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "pinch-eng/dsh-audio-dub",
@@ -19136,7 +20026,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "pinkllo/dsh-reasoning-translator",
@@ -19188,7 +20078,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PixLunaLab/dsh-pixluna",
@@ -19237,7 +20127,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "plur-ai/dsh-plugin",
@@ -19279,7 +20169,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PM25000/dsh-ths-holdings",
@@ -19328,7 +20218,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "protoctistmoses143/dsh-docs",
@@ -19369,7 +20259,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "PUPPET17/dsh-session-reference",
@@ -19416,7 +20306,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "puppet2004/dsh-chatpaper",
@@ -19460,7 +20350,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "qing3a/dsh-event-auditor",
@@ -19503,7 +20393,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "qing3a/dsh-repo-context",
@@ -19547,7 +20437,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "qing3a/dsh-tray",
@@ -19591,7 +20481,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Qingzhou-Joshua/dsh-dev-toolbox",
@@ -19642,7 +20532,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "qinyre/dsh-plugin-capabilities",
@@ -19693,7 +20583,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "qinyre/dsh-plugin-install",
@@ -19744,7 +20634,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "qinyu765/dsh-llm-auto-route",
@@ -19783,7 +20673,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "qiuyongjin/dsh-balance",
@@ -19828,7 +20718,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "QJAG1024/dsh-model-meta-autofill",
@@ -19878,7 +20768,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "qq33357486/dsh-notification-sounds",
@@ -19929,7 +20819,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "QuanWenG/token_usage_heatmap",
@@ -19980,7 +20870,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "R3alloc/dsh-session-deeplink",
@@ -20032,7 +20922,56 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "re-ITRT/dsh-file-fix",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "dist/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": false,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": true,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "dsh-file-fix@^0.1.1"
+        ],
+        "verifiedGitHubRepositories": [
+          "re-ITRT/dsh-file-fix"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "RealAlexandreAI/dsh-all-search",
@@ -20074,7 +21013,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "RealAlexandreAI/dsh-atuin",
@@ -20116,7 +21055,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "RealAlexandreAI/dsh-cloudflare-browser-run",
@@ -20158,7 +21097,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "RealAlexandreAI/dsh-nocturne-memory",
@@ -20200,7 +21139,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Realyujie/dsh-us-stocks",
@@ -20249,7 +21188,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "RedreamR/dsh-remote-access",
@@ -20298,7 +21237,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "reina4xa/dsh-plugin-reload",
@@ -20341,10 +21280,10 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
-      "repository": "ReLuckyLucy/dsh_Rhine_Lab_themo",
+      "repository": "ReLuckyLucy/dsh_Rhine_Lab_theme",
       "status": "needs-review",
       "mode": "guided",
       "reasons": [
@@ -20388,11 +21327,11 @@
           "dsh-theme-rhine-lab"
         ],
         "verifiedGitHubRepositories": [
-          "ReLuckyLucy/dsh_Rhine_Lab_themo"
+          "ReLuckyLucy/dsh_Rhine_Lab_theme"
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Rhymer-Lcy/dsh-plugin-loud-failure",
@@ -20437,7 +21376,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Rianico/dsh-better-edit",
@@ -20478,7 +21417,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "rice-awa/dsh-lan-gateway",
@@ -20527,7 +21466,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "rizkirmdhnnn/dsh-tool-notify",
@@ -20573,7 +21512,7 @@
           "rizkirmdhn/dsh-tool-notify"
         ]
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "rogerdigital/dsh-searxng",
@@ -20614,7 +21553,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "rvaim/dsh-compat",
@@ -20665,7 +21604,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ryanzhou/dsh-codex",
@@ -20716,7 +21655,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Saikel-Orado-Liu/dsh-cost-meter",
@@ -20767,7 +21706,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "SailingLoong/loongport-dsh",
@@ -20814,7 +21753,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "SakalioLabs/dsh-code-ide",
@@ -20858,6 +21797,7 @@
           "web"
         ],
         "specs": [
+          "https://github.com/SakalioLabs/dsh-code-ide/releases/download/v0.1.0-alpha.0/dsh-code-ide-0.1.0-alpha.0.tgz",
           "github:SakalioLabs/dsh-code-ide"
         ],
         "verifiedGitHubRepositories": [
@@ -20865,7 +21805,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Sal7one/DSH-Design-Studio",
@@ -20961,7 +21901,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "samecorner/dsh-git-graph",
@@ -21010,7 +21950,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "samecorner/dsh-token-usage",
@@ -21059,7 +21999,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "SamXiaBing/dsh-adb",
@@ -21102,7 +22042,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sanshanya/better-model-provider",
@@ -21153,7 +22093,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sashankh/dsh-taintguard",
@@ -21197,7 +22137,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sereinmono/dsh-desktop-pet",
@@ -21245,7 +22185,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "seven282/oss-prompt-optimizer",
@@ -21297,7 +22237,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "shatyuka/dsh-llm-codebuddy",
@@ -21346,7 +22286,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "shengsheng90/DSH-taskboard",
@@ -21391,7 +22331,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "shenmy-git/dsh-weather-plugin",
@@ -21442,7 +22382,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "shinjiyu/dsh-plugin-multimodal",
@@ -21486,7 +22426,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "shinjiyu/dsh-plugin-search",
@@ -21530,7 +22470,54 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "Shiye-10Pages/dsh-whale-meter",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "client",
+      "lifecycleScripts": [
+        "prepare"
+      ],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": false,
+        "directGitHub": false,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [],
+        "specs": [],
+        "verifiedGitHubRepositories": [
+          "Shiye-10Pages/dsh-whale-meter"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "shsr07/dsh-go-usage",
@@ -21582,7 +22569,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sijidoubi/dsh-image-zoom",
@@ -21633,7 +22620,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sijidoubi/dsh-plugin-mermaid",
@@ -21677,7 +22664,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sikwoxy/dsh-tool-memory",
@@ -21716,7 +22703,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "silencieuxzero/Better_Deepseek_Harness",
@@ -21767,7 +22754,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sjakdhasdh/dsh-vision",
@@ -21806,7 +22793,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sjh9714/dsh-win32",
@@ -21848,7 +22835,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "skiuniverse/dsh-running-liang",
@@ -21897,7 +22884,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "skyhancloud/dsh-client-ui-quote",
@@ -21948,7 +22935,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "slywalker2006/dsh-passwords",
@@ -21993,7 +22980,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Small-tailqwq/dsh-tps",
@@ -22042,7 +23029,7 @@
           "dsh-external/dsh-tps"
         ]
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "SnowAmberX/dsh-role-router",
@@ -22091,7 +23078,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "SnowCrescenter-tech/dsh-milestone",
@@ -22141,7 +23128,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "solknight48/dsh-memoryhub",
@@ -22192,7 +23179,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "SongChengMing1/dsh-news",
@@ -22241,7 +23228,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Songran241/dsh-req-workbench",
@@ -22292,7 +23279,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Soren-ABT/dsh-knowledge",
@@ -22341,7 +23328,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "spirits001/dsh-tokensforce",
@@ -22392,7 +23379,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "spoon-man569/dsh-token-price",
@@ -22443,7 +23430,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Sqhao-O/dsh-docs",
@@ -22487,7 +23474,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sstar16/dsh-plugin-market",
@@ -22536,7 +23523,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-calendar",
@@ -22580,7 +23567,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-cite",
@@ -22624,7 +23611,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-code-security",
@@ -22668,7 +23655,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-codex-port",
@@ -22712,7 +23699,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-dingtalk",
@@ -22756,7 +23743,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-docker",
@@ -22800,7 +23787,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-email",
@@ -22851,7 +23838,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-ffmpeg",
@@ -22895,7 +23882,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-hyperframes",
@@ -22939,7 +23926,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-ppt",
@@ -22983,7 +23970,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-remotion",
@@ -23027,7 +24014,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-rss",
@@ -23071,7 +24058,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-slack",
@@ -23115,7 +24102,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-voice",
@@ -23159,7 +24146,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "starslittle/dsh-queue-plus",
@@ -23211,7 +24198,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "stushansusu/dsh-miku-skin",
@@ -23258,7 +24245,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sublatesublate-design/dsh-doctor-windows",
@@ -23302,7 +24289,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sugarforever/dsh-lark",
@@ -23344,7 +24331,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "sunny0826/dsh-plugin-herdr",
@@ -23395,7 +24382,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "suntianc/dsh-codex-auth",
@@ -23450,7 +24437,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "superagents-lab/dsh-s1",
@@ -23492,7 +24479,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "supergameboy/dsh-chat-focus",
@@ -23541,7 +24528,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "supergameboy/dsh-new-session-cards",
@@ -23592,7 +24579,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "taichuy/deepseek-harness-auth",
@@ -23645,7 +24632,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Taler97/dsh-rollback",
@@ -23689,7 +24676,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tallahandsome-ux/dsh-fetch-third-party",
@@ -23740,7 +24727,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tancheng33/dsh-egress-guard",
@@ -23783,7 +24770,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tancheng33/dsh-ontology",
@@ -23827,7 +24814,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tancheng33/dsh-yogacara",
@@ -23868,7 +24855,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tappass/dsh-governance",
@@ -23912,7 +24899,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TaurusWood/dsh-plugin-appshot",
@@ -23961,7 +24948,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TecFancy/dsh-auth-gate",
@@ -24005,7 +24992,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TecFancy/dsh-deeptutor",
@@ -24047,7 +25034,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "teckyuen/dsh-autocount-cloud",
@@ -24091,7 +25078,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tencent-connect/dsh-qqbot",
@@ -24133,7 +25120,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TGYD-helige/dsh-pi",
@@ -24177,7 +25164,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TheCrazyLab/crazy-lab",
@@ -24219,7 +25206,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TheMcSwift/DeepSeek-TUI",
@@ -24261,7 +25248,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ThreeBody6666/dsh-computer-use",
@@ -24312,7 +25299,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Tianbaidi/dsh-plugin-github-search",
@@ -24356,7 +25343,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Tianbaidi/dsh-plugin-scaffold",
@@ -24400,7 +25387,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Tianbaidi/dsh-plugin-vision",
@@ -24444,56 +25431,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
-    },
-    {
-      "repository": "tianleyitian/dsh-file-drop",
-      "status": "auto-resolved",
-      "mode": "automatic",
-      "reasons": [
-        "exact-npm-tarball-verified-for-automatic-install"
-      ],
-      "profiles": [
-        "web"
-      ],
-      "profileSource": "readme",
-      "lifecycleScripts": [],
-      "runtimeArtifactsCommitted": false,
-      "artifactGroups": [
-        {
-          "label": "host",
-          "paths": [
-            "lib/index.js"
-          ],
-          "found": null
-        },
-        {
-          "label": "client",
-          "paths": [
-            "lib/client.js"
-          ],
-          "found": null
-        }
-      ],
-      "readme": {
-        "found": true,
-        "directRemote": true,
-        "directGitHub": false,
-        "directNpm": true,
-        "anyProfile": false,
-        "requiresBuildApproval": false,
-        "profiles": [
-          "web"
-        ],
-        "specs": [
-          "dsh-file-drop"
-        ],
-        "verifiedGitHubRepositories": [
-          "tianleyitian/dsh-file-drop"
-        ],
-        "unverifiedGitHubRepositories": []
-      },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TikaFlow/dsh-model-reasoning",
@@ -24534,7 +25472,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "timeance/dsh-approve-for-me",
@@ -24586,7 +25524,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TingRuDeng/dsh-smart-approval",
@@ -24639,7 +25577,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tluoluo/dsh-persist",
@@ -24693,7 +25631,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tomowang/dsh-tui",
@@ -24737,7 +25675,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "toolclub/dsh-agent-team-gui",
@@ -24789,7 +25727,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tpmoonchefryan/dsh-joi-channel-theme",
@@ -24838,7 +25776,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TQSY114514/dsh-ui-appearance",
@@ -24887,7 +25825,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tradercjz/dsh-dolphindb",
@@ -24930,7 +25868,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "tree201/dsh-capability-inspector",
@@ -24972,7 +25910,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "trynewthin/dsh-subagent-roles",
@@ -25023,7 +25961,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ttmouse/dsh-dingtalk-channel",
@@ -25068,7 +26006,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TTTPOB/dsh-task-models",
@@ -25113,7 +26051,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TtTRz/dsh-langfuse",
@@ -25157,7 +26095,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "TtTRz/dsh-wecom",
@@ -25209,7 +26147,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "turtle1999/turtle-ui",
@@ -25252,7 +26190,7 @@
           "deepseek-harness/turtle-ui"
         ]
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "txy-ucas/dsh-workspace-snapshot",
@@ -25297,7 +26235,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Tyan66666/billion-context-dsh",
@@ -25339,7 +26277,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "uAcharGG/dsh-ui-chime",
@@ -25389,7 +26327,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Uddoo/dsh-dashboard",
@@ -25440,7 +26378,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "UNLINEARITY/dsh-code",
@@ -25485,7 +26423,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "urzeye/dsh-outline",
@@ -25536,7 +26474,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "us/dsh-crw",
@@ -25581,7 +26519,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "uwu9039/dsh-airbag",
@@ -25634,7 +26572,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "UynajGI/dsh-ssh",
@@ -25681,7 +26619,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "V1ki/dsh-plugin-subscriptions",
@@ -25733,7 +26671,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "veritas501/dsh-chatflow-rail",
@@ -25784,7 +26722,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Victor-770/dsh-commandcode-provider",
@@ -25826,7 +26764,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Victor-770/dsh-reminder",
@@ -25875,7 +26813,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Viger1/dsh-pilot",
@@ -25919,7 +26857,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Viger1/dsh-preview",
@@ -25963,7 +26901,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Vim0x3c/dsh-session-manager",
@@ -26010,7 +26948,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Vim0x3c/dsh-tts",
@@ -26061,7 +26999,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Visol-456/dsh-cost-tracker",
@@ -26110,7 +27048,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Visol-456/dsh-llm-fallback",
@@ -26159,7 +27097,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Visol-456/dsh-web-compat",
@@ -26204,7 +27142,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Vncntvx/dsh-zotero",
@@ -26254,7 +27192,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "walnut-a/dsh-user-message-navigation",
@@ -26305,7 +27243,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Wanbinyu/dsh-plugin-git-inspect",
@@ -26349,10 +27287,10 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
-      "repository": "wanghehe123/dsh-sessions",
+      "repository": "wanghehe123/dsh-cite",
       "status": "auto-resolved",
       "mode": "automatic",
       "reasons": [
@@ -26393,14 +27331,14 @@
           "web"
         ],
         "specs": [
-          "@wishp3/dsh-sessions"
+          "@wishp3/dsh-cite"
         ],
         "verifiedGitHubRepositories": [
-          "wanghehe123/dsh-sessions"
+          "wanghehe123/dsh-cite"
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wangning19940904/dsh-llm-wiki",
@@ -26444,7 +27382,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wangxilhy23/dsh-wx-skin",
@@ -26493,7 +27431,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wdwind/dsh-vision-no-vision",
@@ -26537,7 +27475,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "weijiafu14/pi2dsh",
@@ -26588,7 +27526,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "weike-zhang/dsh-svg-motion",
@@ -26630,7 +27568,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "WeiYe6/dsh-handoff",
@@ -26675,7 +27613,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Wha1eChai/dsh-cross-session",
@@ -26720,7 +27658,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "william-jin-cmu/dsh-stickers",
@@ -26767,7 +27705,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "WindLX/paper_plane_x_dsh",
@@ -26819,7 +27757,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Wine-Red/dsh-prompt-stash",
@@ -26868,7 +27806,49 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "winterhuan/dsh-shadow-mind",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "dist/index.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": false,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "@winterchenhuan/dsh-shadow-mind"
+        ],
+        "verifiedGitHubRepositories": [
+          "winterhuan/dsh-shadow-mind"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "winterhuan/dsh-skills-viewer",
@@ -26917,7 +27897,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "winyh/dsh-geo",
@@ -26962,7 +27942,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wjt0321/dsh-git-proxy",
@@ -27011,7 +27991,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "WJZ-P/dsh-attachments",
@@ -27062,7 +28042,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "WJZ-P/dsh-model-capabilities",
@@ -27113,7 +28093,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wlj521/dsh-ui-tweaks",
@@ -27165,7 +28145,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wloops/dsh-git-worktree",
@@ -27217,7 +28197,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "woshi-Tom/dsh-status-plugin",
@@ -27266,7 +28246,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wuchubuzai2018/dsh-ai-prompt-optimizer",
@@ -27317,7 +28297,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wulun811/dsh-plugin-vet",
@@ -27364,7 +28344,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wuxiangru915/dsh-session-manager",
@@ -27458,7 +28438,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "wxyzh/dsh-auth-proxy",
@@ -27510,7 +28490,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "XanthanL/dsh-plugin-uisfx",
@@ -27562,7 +28542,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xiagaogaozi/dsh-silly-plugin",
@@ -27609,7 +28589,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xiajiajun516/dsh-config-manager",
@@ -27659,7 +28639,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xianshu-virtuous/dsh-whale-companion",
@@ -27706,7 +28686,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xiaoshihou514/dsh-tui",
@@ -27750,7 +28730,52 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
+    },
+    {
+      "repository": "xiaoshihou514/dsh-vision",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "client",
+      "lifecycleScripts": [],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "lib/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": false,
+        "directGitHub": false,
+        "directNpm": false,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [],
+        "specs": [],
+        "verifiedGitHubRepositories": [
+          "xiaoshihou514/dsh-vision"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xiaoshihou514/dsh-weixin",
@@ -27801,7 +28826,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xiaoso456/dsh-turn-navigator",
@@ -27853,7 +28878,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "XieZongChen/dsh-md-notes",
@@ -27902,7 +28927,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xing01l/session-import-codex",
@@ -27944,7 +28969,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xingke-seeker/dsh-ui-notify",
@@ -27995,7 +29020,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xjackzenvey/Dsh-UI-Enhance",
@@ -28046,7 +29071,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "XKLMY-hi/dsh-synthv-bridge",
@@ -28095,7 +29120,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xmasdong/dsh-codex-image",
@@ -28140,7 +29165,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xsoc1/math-research-dsh",
@@ -28183,7 +29208,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xu-kai-quan/dsh-tool-diagnose",
@@ -28230,7 +29255,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xu1132/dsh-plugin-browser",
@@ -28271,7 +29296,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xu1132/dsh-plugin-hello",
@@ -28312,7 +29337,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xxiaoxiong/dsh-kubernetes",
@@ -28351,7 +29376,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xxiaoxiong/dsh-prometheus",
@@ -28393,7 +29418,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xxvk/dsh-cost-crystal",
@@ -28436,7 +29461,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "xxxxxxxyu/dsh-notify-sound",
@@ -28483,7 +29508,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ya8D/dsh-directive-compact",
@@ -28525,7 +29550,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yabo083/dsh-document-review",
@@ -28574,7 +29599,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Yan-Zero/dsh-codex",
@@ -28625,7 +29650,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Yan-Zero/dsh-progressive-tools",
@@ -28664,7 +29689,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Yan-Zero/dsh-remote-ssh",
@@ -28715,7 +29740,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yangyongzhen/dsh-memory",
@@ -28758,7 +29783,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yangyue1974/dsh-plugin-audiolib",
@@ -28809,7 +29834,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yangzhe1003/dsh-web-search-firecrawl",
@@ -28851,7 +29876,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yangzhe1991/dsh-code-review",
@@ -28902,7 +29927,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yangzhe1991/dsh-task-notify",
@@ -28954,7 +29979,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yangzhe1991/dsh-web-enhance",
@@ -29005,7 +30030,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ycp424c/dsh-luna-vision-bridge",
@@ -29050,7 +30075,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yejiming/dsh-museai-tavern",
@@ -29145,7 +30170,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Yi-111-a/dsh-jingling",
@@ -29196,7 +30221,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yibiner/dsh-plugin-list-plus",
@@ -29245,7 +30270,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Yidien/dsh-capture-window",
@@ -29294,7 +30319,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YiHarvest/dsh-failure-capsule",
@@ -29338,7 +30363,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yimeng-dev/dsh-traffic-light",
@@ -29380,7 +30405,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yjh051108/dsh-super-injector",
@@ -29429,7 +30454,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YLifeOnlyOnce/dsh-dynamic-island",
@@ -29478,7 +30503,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YLifeOnlyOnce/dsh-smarthome",
@@ -29530,7 +30555,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ylwl1997/noatmark-dsh-plugin",
@@ -29571,7 +30596,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yokesky/dsh-usage-lens",
@@ -29620,7 +30645,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yolorouter/dsh-llmasking",
@@ -29666,7 +30691,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yonro/xmemo-deepseek-plugin",
@@ -29716,7 +30741,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "youjiaqi421/dsh-plugin-workspace-rules",
@@ -29760,7 +30785,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yq04/dsh-git-remotes",
@@ -29811,7 +30836,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YshuY/dsh-agent-teams-meta",
@@ -29860,7 +30885,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ystyle/dsh-tool-terminal-search",
@@ -29902,7 +30927,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yuanliangxiannan/dsh-hud",
@@ -29947,7 +30972,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "Yuer6327/NoLetMe",
@@ -29998,7 +31023,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yul761/dsh-statecore",
@@ -30047,7 +31072,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yumimanji/dsh-ui-spec",
@@ -30092,7 +31117,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yun520-1/deepseek-heartflow",
@@ -30133,7 +31158,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yuqisun/dsh-theme-machine",
@@ -30185,7 +31210,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YuXuanLiang-dev/dsh-plugin-adaptive-agent-policy",
@@ -30227,7 +31252,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yyb16yyb-hub/dsh-deepseek-usage",
@@ -30279,7 +31304,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YYTbit/dsh-plugin-claude-bridge",
@@ -30322,7 +31347,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YYTbit/dsh-plugin-cost-tracker",
@@ -30365,7 +31390,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YYTbit/dsh-plugin-meta-memory",
@@ -30408,7 +31433,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "YYTbit/dsh-plugin-vision-toolkit",
@@ -30451,7 +31476,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "yzd6552-commits/dsh-browseruse",
@@ -30496,6 +31521,55 @@
         ]
       },
       "checkedAt": "2026-08-14T21:41:59.776Z"
+    },
+    {
+      "repository": "yzke/dsh-icon-theme",
+      "status": "auto-resolved",
+      "mode": "automatic",
+      "reasons": [
+        "exact-npm-tarball-verified-for-automatic-install"
+      ],
+      "profiles": [
+        "web"
+      ],
+      "profileSource": "readme",
+      "lifecycleScripts": [],
+      "runtimeArtifactsCommitted": false,
+      "artifactGroups": [
+        {
+          "label": "host",
+          "paths": [
+            "lib/index.js"
+          ],
+          "found": null
+        },
+        {
+          "label": "client",
+          "paths": [
+            "client/client.js"
+          ],
+          "found": null
+        }
+      ],
+      "readme": {
+        "found": true,
+        "directRemote": true,
+        "directGitHub": false,
+        "directNpm": true,
+        "anyProfile": false,
+        "requiresBuildApproval": false,
+        "profiles": [
+          "web"
+        ],
+        "specs": [
+          "dsh-icon-theme"
+        ],
+        "verifiedGitHubRepositories": [
+          "yzke/dsh-icon-theme"
+        ],
+        "unverifiedGitHubRepositories": []
+      },
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zebbkira/dsh-skills-mcp-manager",
@@ -30544,7 +31618,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ZEM17/dsh-subagent-agy",
@@ -30586,7 +31660,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zerob13/dsh-better-markdown",
@@ -30639,7 +31713,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ZeroingIn/dsh-provider-billing",
@@ -30691,7 +31765,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zevorn/dsh-humanize",
@@ -30743,7 +31817,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zhang66633/dsh-plugin-installer",
@@ -30792,7 +31866,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zhang787jun/dsh-finance",
@@ -30834,7 +31908,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zhangweiii/dsh-tui",
@@ -30878,7 +31952,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ZhengQingJing/dsh-session-tree",
@@ -30931,7 +32005,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zibo2025/dsh-orchestrator",
@@ -30975,7 +32049,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zimai233/dsh-video-downloader",
@@ -31064,7 +32138,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zljr/dsh-share",
@@ -31113,7 +32187,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zmm863-commits/dsh-paperclip",
@@ -31162,7 +32236,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zoahdev/dsh-artifacts",
@@ -31206,7 +32280,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zoahdev/dsh-github-intelligence",
@@ -31251,7 +32325,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zoahdev/dsh-github-release-radar",
@@ -31296,7 +32370,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zoahdev/dsh-poison-guard",
@@ -31341,7 +32415,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ZSeven-W/dsh-noema",
@@ -31390,7 +32464,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ZSeven-W/dsh-openpencil",
@@ -31439,14 +32513,14 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ZSLsherly/DSH-remote-console",
-      "status": "needs-review",
-      "mode": "guided",
+      "status": "auto-resolved",
+      "mode": "automatic",
       "reasons": [
-        "readme-documents-github-install-but-runtime-entry-artifacts-are-missing"
+        "exact-npm-tarball-verified-for-automatic-install"
       ],
       "profiles": [
         "web"
@@ -31492,7 +32566,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zsyayo112/dsh-rick-and-morty",
@@ -31541,7 +32615,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "ztlovelsw/dsh-model-profile",
@@ -31592,7 +32666,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zuoguyoupan2023/adhdgofly-dsh-ext",
@@ -31641,7 +32715,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zuoguyoupan2023/openharness-reader",
@@ -31690,7 +32764,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zuoguyoupan2023/openharness-reply-in-cn",
@@ -31739,7 +32813,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zuoguyoupan2023/openharness-rule-for-dsh-plugin",
@@ -31788,7 +32862,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zytsyj/dsh-gpu",
@@ -31831,7 +32905,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     },
     {
       "repository": "zzh799/dsh-mobile-adaptive",
@@ -31883,7 +32957,7 @@
         ],
         "unverifiedGitHubRepositories": []
       },
-      "checkedAt": "2026-08-16T22:36:08.543Z"
+      "checkedAt": "2026-08-17T01:54:53.989Z"
     }
   ]
 }
