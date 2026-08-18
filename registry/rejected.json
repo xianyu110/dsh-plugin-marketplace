@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T18:56:05.142Z",
+  "generatedAt": "2026-08-18T20:40:40.600Z",
   "repositories": [
     {
       "repository": "0326/dsh-plugin-market",
@@ -144,7 +144,7 @@
       "repository": "1841220388zzzcccxxx-star/dsh-weixin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "19217057226/whale-pet",
@@ -162,7 +162,7 @@
       "repository": "1HelloMan1/dsh-stats-dashboard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "1lyygit/dsh-launcher",
@@ -204,19 +204,19 @@
       "repository": "2128627267/dsh-qdocs-hub",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "2128627267/dsh-qinput-history",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "2128627267/dsh-qsystem-actions",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "21hbguo/dsh-agent-board",
@@ -264,7 +264,7 @@
       "repository": "237229953-create/dsh-vision",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "23aisfvb/dsh-plan-preset",
@@ -408,7 +408,7 @@
       "repository": "834063245-creator/HoloGram",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "862930522/opencode-anchored-standard",
@@ -462,7 +462,7 @@
       "repository": "8b-is/deepsiper-enthea",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "988hj7tczd-oss/harness-desktop",
@@ -498,7 +498,7 @@
       "repository": "a771853580/dsh-hindsight-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "A8Chann/dsh_desktop",
@@ -510,7 +510,7 @@
       "repository": "AAA-STM32XinPianPiFaWangGe/deepseek-harness-workshop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "AAA-STM32XinPianPiFaWangGe/DSH-Workshop",
@@ -570,13 +570,13 @@
       "repository": "AbcdefgXW/dsh-im-bridge",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "AbcdefgXW/dsh-toolbox",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "AbdullahElTiby/dsh-vision-bridge",
@@ -654,7 +654,7 @@
       "repository": "AdamPlatin123/awesome-dsh-plugins",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "AdamPlatin123/dsh-tonghuashun",
@@ -702,7 +702,7 @@
       "repository": "aerince/deepseek-harness-plugin-authoring",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "afa-cloud/desktop-gui-automation-cua",
@@ -762,7 +762,7 @@
       "repository": "AHiNLs/dsh-chrome-samples",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ahren112/ds-image-skin",
@@ -804,31 +804,31 @@
       "repository": "ajhcs/Codex-Co-Engineer",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "akqwpeter-prog/dsh-agent-conductor",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "akqwpeter-prog/dsh-media-skills",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "akqwpeter-prog/dsh-skill-router",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "akqwpeter-prog/skill-bartender",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "alaliqing/claude-paper",
@@ -882,13 +882,13 @@
       "repository": "Alexis-fish/dsh-projects",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Alexis-fish/dsh-worktrees",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "AlexisDevos/dsh-remote-vps",
@@ -900,7 +900,7 @@
       "repository": "AlfredChaos/dsh-usage-stats",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ali-meoo/meoo-cli",
@@ -924,7 +924,7 @@
       "repository": "alibaba/loongsuite-pilot",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Alice-P197/cat-healing",
@@ -1068,7 +1068,7 @@
       "repository": "amruthpillai/reactive-resume",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "An0range/dsh-plugins",
@@ -1086,7 +1086,7 @@
       "repository": "Andiii208/dsh-remote",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Andy294753951/dsh-plugin-qwen-web-bridge",
@@ -1122,13 +1122,13 @@
       "repository": "Angelyeye/dsh-cost-tracker",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T13:07:54.741Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Anil-matcha/awesome-deepseek-harness",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Anil-matcha/awesome-dsh-plugin",
@@ -1194,13 +1194,13 @@
       "repository": "Anyi-qaq/dsh-vision",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "anywhere-labs/deepseek-harness-desktop",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "aooyoo/dsh-web-search-ddg",
@@ -1218,7 +1218,7 @@
       "repository": "apbigking-cell/dsh-plugin-square",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "AppliedYuu/dsh-WallpaperAndCost",
@@ -1260,7 +1260,7 @@
       "repository": "ARFCON/DSH_Automatic-update-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ARFCON/dsh-hub-DSH",
@@ -1344,7 +1344,7 @@
       "repository": "asd13006/dsh-zh-tw-ui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "asdf17128/dsh-doctor",
@@ -1404,7 +1404,7 @@
       "repository": "AtlasCloudAI/dsh-atlascloud",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "AtlasCloudAI/dsh-media-gen",
@@ -1446,7 +1446,7 @@
       "repository": "aust24lzy/dsh-plugin-hub",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "avaritiachaos/dsh-plugin-mcp",
@@ -1488,7 +1488,7 @@
       "repository": "awesome-dsh-plugin/awesome-dsh-plugin",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "AX1202/ax-feishu-bridge",
@@ -1548,13 +1548,13 @@
       "repository": "baconbao/dsh-mermaid-preview-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "badai147/dsh-mimo-link",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "baiduzero/miqimiaomiaowu",
@@ -1572,13 +1572,13 @@
       "repository": "baikangwang/deepseek-harness-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "baikangwang/deepseek-harness-UI",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "baikangwang/dsh-desktop",
@@ -1614,7 +1614,7 @@
       "repository": "bainianlaoyao/windows-bash",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Baisbt/dsh-api-balance",
@@ -1626,7 +1626,7 @@
       "repository": "baixianger/dsh-session-messaging",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "baixinghao/intent-gate",
@@ -1668,7 +1668,7 @@
       "repository": "baobaolaodie/cc-notifier",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "baobaolaodie/dsh-tui-vscode",
@@ -1740,13 +1740,13 @@
       "repository": "beijingwahw/dsh-autonomous-scheduler",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "beiyege-01/dsh-voice-ai-girlfriend",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-16T18:46:52.556Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "belowthetree/dsh-qqbot",
@@ -1788,13 +1788,13 @@
       "repository": "bibibala/dsh-git-guard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "bigclawd/dsh-guard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "BigGayJiuMo/lingmu-dsh-plugin",
@@ -1824,7 +1824,7 @@
       "repository": "billLiao/awesome-dsh-plugin",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T13:07:54.741Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Bin-hy/dsh",
@@ -1884,25 +1884,25 @@
       "repository": "bitterSmilezzz/dsh-mac-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "bitterSmilezzz/dsh-model-selector",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "bitterSmilezzz/dsh-skill-manager",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "bitxeno/dsh-at-github",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "biuboomc/dsh-plugin-consult",
@@ -2004,7 +2004,7 @@
       "repository": "boxeryao/deepseek-harness-tui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "bpc-oss/chrome-faithful",
@@ -2034,13 +2034,13 @@
       "repository": "Breeze136/kb-rag",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "BroBFG/dsh-tool-docx",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "brokge/gold-monitor",
@@ -2082,7 +2082,7 @@
       "repository": "brunhildzhou/dsh-all-warmup",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "brzvsk/dsh-plugins",
@@ -2100,13 +2100,13 @@
       "repository": "btspoony/dsh-advisor",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "btspoony/dsh-llm-fallbacks",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "btspoony/mstar-harness",
@@ -2118,7 +2118,7 @@
       "repository": "Buyi-wsgzg/dsh-sidechain",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "byh819-png/dsh-client-ui-notify",
@@ -2208,7 +2208,7 @@
       "repository": "cakeni/harness-whale",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "calwang414/my-dsh-plugins",
@@ -2280,7 +2280,7 @@
       "repository": "CaseyTso/analyze_image_tool",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "CatNebulaaaa/wps-dsh-plugin",
@@ -2304,13 +2304,13 @@
       "repository": "ccch1mneyyy/dsh-cc-tui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ccch1mneyyy/dsh-working-activity",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ccch1mneyyy/working-activity",
@@ -2334,7 +2334,7 @@
       "repository": "ccq1/dsh-side-panel",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Ceelog/dsh-plugins",
@@ -2388,13 +2388,13 @@
       "repository": "CH4ACKO3/dsh-harmony",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "CH4ACKO3/dsh-webui-studio",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ChangedenCZD/dsh-minimal-turbo",
@@ -2412,13 +2412,13 @@
       "repository": "ChaoYuZhang001/dsh-forge",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ChaoYuZhang001/dsh-gate",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "CharlesLiuZC/deepseek-harness-voice-context",
@@ -2430,7 +2430,7 @@
       "repository": "CharlotteN7/dsh-plugin-inspector",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T08:53:41.135Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "charlzyx/dshwork",
@@ -2472,7 +2472,7 @@
       "repository": "chen731215-dev/-",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "chen731215-dev/dsh-tavern",
@@ -2502,7 +2502,7 @@
       "repository": "chengganping-ship-it/dsh-tool-codereview",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "chengxiaosheng/dsh-desktop",
@@ -2556,7 +2556,7 @@
       "repository": "chenshutian9610/deepseek-harness-mermaid-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "chenshutian9610/deepseek-harness-plugin-list",
@@ -2568,19 +2568,19 @@
       "repository": "chenshutian9610/deepseek-harness-plugin-skill",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "chenshutian9610/deepseek-harness-terminal-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "chenshutian9610/deepseek-harness-web",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "chentao326/dsh-gui",
@@ -2760,7 +2760,7 @@
       "repository": "Chu-Xin-r/wanjiaqi-meme",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ChuanTianML/dsh-island",
@@ -2772,7 +2772,7 @@
       "repository": "ChuanTianML/dsh-share",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Chuiguo/dsh-gpt56-sol-kit",
@@ -2838,7 +2838,7 @@
       "repository": "citrusli2026/dsh-mobile-ui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "civaapple-alt/mini-dsh",
@@ -2874,7 +2874,7 @@
       "repository": "CJackHwang/Succinix",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-17T20:43:31.513Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "cjz-wr/agent-engineering-workflow",
@@ -2994,7 +2994,7 @@
       "repository": "cocode-agency/cocode",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "code-gal/dsh-ng",
@@ -3006,7 +3006,7 @@
       "repository": "code-newbie-1/dsh-wallpaper",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "codeh007/mtmdsh",
@@ -3024,13 +3024,13 @@
       "repository": "coder-wu/dsh-share",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "coderPerseus/dsh-hub",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "codetime-dev/dsh-codetime",
@@ -3102,7 +3102,7 @@
       "repository": "coolbat/awesome-dsh-plugins",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "cooljser/dsh-plugin-portal",
@@ -3126,7 +3126,7 @@
       "repository": "cosyncing/cosyncing",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T01:50:27.736Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "cpj-dev/dsh-plugin-cc",
@@ -3144,7 +3144,7 @@
       "repository": "crack-time/dsh-client-ui-skin-cottage",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "cradler-ai/dsh-plugin",
@@ -3210,25 +3210,25 @@
       "repository": "CreatTheWorld/dsh-desktop-launcher",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "CriscolTheCoder/dsh-plugin-browser",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "CriscolTheCoder/dsh-web-terminal",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "CriscolTheCoder/dsh-workflow-groups",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "cromus-ai/dsh-plugin",
@@ -3354,7 +3354,7 @@
       "repository": "cyanseek/dsh-landscape",
       "status": "invalid",
       "reason": "bundle patch does not insert a loader entry owned by package dsh-landscape",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "cyanseek/dsh-native-playbook",
@@ -3372,19 +3372,19 @@
       "repository": "cyijun/surfing-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "cyjyyd/dsh-tui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Cyning12/dsh-coding-kit",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "cyzlmh/dsh-cyber-sec",
@@ -3432,7 +3432,7 @@
       "repository": "dalintian/Digital-Sweet-Heart",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "DamonKoy/dsh-plugins",
@@ -3546,7 +3546,7 @@
       "repository": "DDDFXYqiming/dsh-memory",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "DDDPG/dsh-plugins",
@@ -3570,7 +3570,7 @@
       "repository": "ddggkkcc/dsh-brainwave",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ddggkkcc/dsh-stash",
@@ -3612,7 +3612,7 @@
       "repository": "Dely0/dsh-workbench",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "derek2035/dsh-social",
@@ -3672,7 +3672,7 @@
       "repository": "dff652/deepseek-harness-plugins-public",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dfzjb/deskpet-bridge",
@@ -3684,7 +3684,7 @@
       "repository": "DGPisces/deepseek-harness-openai-oauth",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dhicoc/dsh-codex-web-search-mcp",
@@ -3726,7 +3726,7 @@
       "repository": "dimitririchko-ops/dsh-computer-use-windows",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dingge001/dsh-redact",
@@ -3750,19 +3750,19 @@
       "repository": "Dingpenghui-good/dsh-plugin-manager",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Dingpenghui-good/dsh-tool-agnes",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Dinosaur-MC/dsh-win-multi-bash",
       "status": "invalid",
       "reason": "bundle patch does not insert a loader entry owned by package dsh-win-multi-bash",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "diqierjia/StrataGate-AgentMemory",
@@ -3918,7 +3918,7 @@
       "repository": "DolphinMiner/dsh-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Dominic789654/awesome-deepseek-harness",
@@ -4002,13 +4002,13 @@
       "repository": "dream-num/dsh-univer-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dream12347/dsh-delete-session",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dretylin/dsh-desktop",
@@ -4074,7 +4074,7 @@
       "repository": "dsh-plugin/dsh-plugin.github.io",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dsh-pub/dsh-pub",
@@ -4092,13 +4092,13 @@
       "repository": "dsh-zhihu/dsh-zhihu",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dshbox/cordis-rs",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dshiq04/dsh-deepseek-balance",
@@ -4170,7 +4170,7 @@
       "repository": "duntansen/dsh-plugin-aquote",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "dwefwevfe/dsh-jarvis-pet",
@@ -4194,13 +4194,13 @@
       "repository": "e2mcc/dsh-standalone-tab-sidebar",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "E83737664/dsh-skills-manager",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Earnest02522/dsh-archive-manager",
@@ -4212,7 +4212,7 @@
       "repository": "Easyhoov/deepseek-harness-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Easyhoov/deepseek-harness-desktop-windows",
@@ -4224,7 +4224,7 @@
       "repository": "echo-escape/dsh-workbench",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "echo804/dsh-billing-balance",
@@ -4242,7 +4242,7 @@
       "repository": "eddiehuang227-source/dsh-flowact-avatar",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Edge-Echo/dsh-mcp-bridge",
@@ -4314,7 +4314,7 @@
       "repository": "EIGHTfs/dsh-git-rescue",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "EIGHTfs/dsh-image-preview",
@@ -4398,7 +4398,7 @@
       "repository": "entireyu/dsh-launcher",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "entireyu/dsh-whalito-desk",
@@ -4416,7 +4416,7 @@
       "repository": "eons2long/dsh-llm-codex-oauth",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Ephemeral-AI-Lab/dsh-plugins",
@@ -4446,13 +4446,13 @@
       "repository": "EricXu20266/dsh-gui",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-16T14:38:18.378Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "esengine/DeepSeek-Reasonix",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "EtachGu/Awesome-Physical-AI",
@@ -4470,7 +4470,7 @@
       "repository": "EternalNight996/dsh-beast-master",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "EternalNight996/dsh-desktop",
@@ -4488,7 +4488,7 @@
       "repository": "ethan0084/ethan-workbench",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Ethanout/computer-use-plus",
@@ -4506,7 +4506,7 @@
       "repository": "EthanYoQ/AI-Novel-Writer",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "evanfang0054/dsh-tailscale-console",
@@ -4518,7 +4518,7 @@
       "repository": "Eve-146T/deepseek-harness-openai-codex-auth",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "EverMind-AI/EverOS",
@@ -4644,7 +4644,7 @@
       "repository": "fazhu4/dsh-activity-report",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "FeatherHunter/dsh-mattpocock-skills-deck",
@@ -4674,7 +4674,7 @@
       "repository": "feibi-mochi/deepseek-harness-wallet",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "feicaiclub/deepseek-harness-whitepaper",
@@ -4692,7 +4692,7 @@
       "repository": "feiyang-dev/deepseekharnessdesktop-vault",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "felixzhang-glitch/dsh-token-usage",
@@ -4806,13 +4806,13 @@
       "repository": "Fishquito7/dsh-skill-viewer",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Flamesnake/dsh-talespindle",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "flaricy/herdr-bridge",
@@ -4848,7 +4848,7 @@
       "repository": "flee42/dsh-dsktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "fleg45/memoria-framework",
@@ -4896,13 +4896,13 @@
       "repository": "fore-vip/skills",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T08:53:41.135Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "forrestchang/dsh-multica-runtime",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "foryourhealth111-pixel/Vibe-Skills",
@@ -4920,19 +4920,19 @@
       "repository": "fragmata-dev/corti",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "franksong2702/dsh-voice-input",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "fredalxin/dsh-plugin-solo-thinking",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "freespace8/dsh-plugins",
@@ -4986,13 +4986,13 @@
       "repository": "fufankeji/deepseek-harness-app",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "fufankeji/deepseek-harness-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "fufankeji/deepseek-harness-studio",
@@ -5028,7 +5028,7 @@
       "repository": "Fungx/dsh-web-message-index",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Funnyvalentine00/dsh-github-push",
@@ -5088,7 +5088,7 @@
       "repository": "fxomomi/dsh-notify",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "fyfhcgch/dsh-ctf-collaborate",
@@ -5196,7 +5196,7 @@
       "repository": "gengyueworks/dsh-zhihu",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "geohotstan/dsh-computer-use",
@@ -5214,13 +5214,13 @@
       "repository": "gezi-wen/sage-meta",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "gezi-wen/sage-persona",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "gezi6603-rgb/tavern-launcher",
@@ -5232,7 +5232,7 @@
       "repository": "GGbao-114/dsh-theme-cyberpunk-red",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ggggggggggz/dsh-config",
@@ -5250,13 +5250,13 @@
       "repository": "ghbhiee/dsh-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "GHJIVHIDD/dsh-plugin-docker",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ghost616/module_agent_deepseek",
@@ -5280,7 +5280,7 @@
       "repository": "GinerYard/Chords---A-DeepSeek-Harness-Plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "GinerYard/dsh-chords",
@@ -5340,7 +5340,7 @@
       "repository": "gkgy/dsh-plugin-laile-didi",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "gkgy/dsh-plugin-laile-laodi",
@@ -5352,7 +5352,7 @@
       "repository": "GLFzr/dsh-drop-file-to-path",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "GLFzr/dsh-hermes-memory-bridge",
@@ -5478,7 +5478,7 @@
       "repository": "GraySilver/dsh-task-modes",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "GreatV/oardsh",
@@ -5514,7 +5514,7 @@
       "repository": "Gu-ZT/dsh-auxiliary",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "GuangminJu/mellos-mapping",
@@ -5580,13 +5580,13 @@
       "repository": "GuoxinShan/dsh-yzj",
       "status": "invalid",
       "reason": "bundle patch does not insert a loader entry owned by package @dsh-yzj/bundle",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "GUOZIJAN/dsh-project-intake",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "GUOZIJAN/dsh-tech-stack-survey",
@@ -5616,7 +5616,7 @@
       "repository": "gwrsfsfeefdsfs/dsh-skill-curator",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "gxx950224/ggame",
@@ -5712,19 +5712,19 @@
       "repository": "haibara757/dsh-haibala-remote-web-ui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "haibara757/dsh-haibala-ui-extensions",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "haibara757/dsh-ui-extensions",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "haipisao/dsh-plugin-opencode-go-quota",
@@ -5742,13 +5742,13 @@
       "repository": "haiyoucuv/dsh-model-provider-label",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "haiziyao/dsh-codex-bridge",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "hajimilvdou/dsh-store-server",
@@ -5766,7 +5766,7 @@
       "repository": "hanchn/dsh-vision-router",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "hanelalo/browser-bridge",
@@ -5778,7 +5778,7 @@
       "repository": "Hanihahaha/deepseek-harness-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "hanjixin/dsh-finance-plugins",
@@ -5847,12 +5847,6 @@
       "checkedAt": "2026-08-16T06:58:43.058Z"
     },
     {
-      "repository": "Harzva/dsh-maclens",
-      "status": "retry",
-      "reason": "./cordis.patch.yml was rate-limited by GitHub",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
-    },
-    {
       "repository": "hashgraph-online/hol-guard",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
@@ -5892,7 +5886,7 @@
       "repository": "hccccc01333/dsh-report-html",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "hchao3335-maker/dsh-lan-gate",
@@ -5908,9 +5902,15 @@
     },
     {
       "repository": "he110Warudo/dsh-desktop",
+      "status": "removed",
+      "reason": "topic removed, repository archived, or repository deleted",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
+    },
+    {
+      "repository": "he110Warudo/dsh-window",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-14T21:56:26.754Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "heartleo/hn-cli",
@@ -5952,7 +5952,7 @@
       "repository": "hellosky983/dsh-mc-launcher",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "hellosz/dsh-ntfy",
@@ -6000,7 +6000,7 @@
       "repository": "henryZhouLikeStudy/dsh-lattice-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "henryZhouLikeStudy/dsh-lattice-protocol",
@@ -6216,7 +6216,7 @@
       "repository": "Hope-Phenom/DshNotifyicon",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Horizon215/dsh-plugins",
@@ -6246,13 +6246,13 @@
       "repository": "HQ1995/deepseek-code",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "hrhgit/deepseek-harness-plugin-manager",
       "status": "invalid",
       "reason": "package.json has no valid semantic version",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "hskelp9527-pixel/dsh-plugin-market",
@@ -6306,7 +6306,7 @@
       "repository": "huangmingche/deepagent",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "huangmouren2023/deepseek-harness-toolkit",
@@ -6318,13 +6318,13 @@
       "repository": "huangrx6/dsh-plugin",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T08:53:41.135Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "HuanLinOTO/dsh-merge-tool-calls",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "HuanLinOTO/dsh-plugin-aigc-canvas",
@@ -6384,7 +6384,7 @@
       "repository": "huey1in/trio",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "huguangyu666/dsh-store",
@@ -6396,7 +6396,7 @@
       "repository": "huiliyi37/dsh-tianshu-build",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "humblebanana/open-record-replay",
@@ -6486,7 +6486,7 @@
       "repository": "hyls9527/dsh-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Hyna-hla/dsh-remote",
@@ -6504,13 +6504,13 @@
       "repository": "Hyp6666/dsh-open-eyes",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Hyp6666/dsh-open-file",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "hypergraphdev/deepseek-harness-extension",
@@ -6564,13 +6564,13 @@
       "repository": "i1j/dsh-deepsea-theme",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "iaaiNG/quiet-light-dsh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "iamaanahmad/everything-antigravity",
@@ -6606,7 +6606,7 @@
       "repository": "icetomoyo/dsh_workflow",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "icodesign/orbis",
@@ -6636,13 +6636,13 @@
       "repository": "ihuajiu/dsh-plugin-finder",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Ikalus1988/MisakaNet",
       "status": "invalid",
       "reason": "package.json has no valid semantic version",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "iloveyanjialin1314/matlab-assistant",
@@ -6660,7 +6660,7 @@
       "repository": "iluluyu/dsh-plugin-outline",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "IMHaoyan/deepseek-harness-launcher",
@@ -6690,7 +6690,7 @@
       "repository": "imsai-sh/awesome-deepseek-harness-plugins",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "imsai-sh/zhuzhiliao",
@@ -6702,7 +6702,7 @@
       "repository": "imtanhui/dsh-plugin-manager",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "imtheolin/ai-keyboard",
@@ -6726,7 +6726,7 @@
       "repository": "ingleav626-art/better-dsh-webui-launcher",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "InklingYoshi584/dsh-tool-hashline",
@@ -6756,7 +6756,7 @@
       "repository": "innocence1110/DeepSeek-Harness",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "inthepond/ff-toolkit",
@@ -6810,7 +6810,7 @@
       "repository": "IT-coder-Yy/deepseek-git-guide",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "itmoqing/DeepSeek-Harness-Skill",
@@ -6852,13 +6852,13 @@
       "repository": "IZRINO/dsh-token-stats",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "J-Chien/dsh-billing",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "J-Chien/dsh-meter",
@@ -7002,13 +7002,13 @@
       "repository": "je00/dsh-codex-agent-bridge",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "jean3690/dsh-toolbox",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Jedeiah/dsh-desktop",
@@ -7074,7 +7074,7 @@
       "repository": "jermaine123123/agent-context-editor",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T01:50:27.736Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Jesse-njx/dsh-cowork",
@@ -7242,13 +7242,13 @@
       "repository": "jilian-dsh/dsh-rules-manager",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JimingYang25/Lafeng-UI-A-snazzy-personalized-custom-UI-plugin-for-DeepSeek-Harness-Cordis-.",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "jinbaozi/deepseek-harness-plugins",
@@ -7260,7 +7260,7 @@
       "repository": "JingbiaoMei/Tokdash",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-15T10:40:41.398Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JingHao-Leon/dsh-daily-digest",
@@ -7290,7 +7290,7 @@
       "repository": "Jinsong-Zhou/find-dsh-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Jinsong-Zhou/safe-find-dsh-plugins",
@@ -7380,7 +7380,7 @@
       "repository": "johnnycls/dsh-minimal-mode",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "johnwick128-ship/dsh-opencode-subscription",
@@ -7410,7 +7410,7 @@
       "repository": "JohnXu22786/fs-mcp",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JohnXu22786/github-mcp",
@@ -7422,37 +7422,37 @@
       "repository": "JohnXu22786/memory-vault",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JohnXu22786/notifier",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JohnXu22786/pty-runner",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JohnXu22786/skill-manager",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JohnXu22786/statusline",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JohnXu22786/task-board",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JOJO666888888/prompt-polish",
@@ -7620,7 +7620,7 @@
       "repository": "juexe/dsh-container",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "juexiongchen-boop/dsh-voice-input",
@@ -7632,7 +7632,7 @@
       "repository": "JulieSapir/dsh-vscode",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "juliye2025/dsh-butler-atelier",
@@ -7650,7 +7650,7 @@
       "repository": "Julyves/dsh-git-status",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JunbaoCao/wealth-device-inspector",
@@ -7698,7 +7698,7 @@
       "repository": "JustGenius-s/DSH-Decktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JustGenius-s/DSH-Desktop",
@@ -7716,25 +7716,25 @@
       "repository": "justinhuangai/deepagent",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "justinhuangai/deepseek-harness-agent",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "justinhuangai/one-harness",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "juzikexue/dsh-ide",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "JxaMe/DshWslManager",
@@ -7782,7 +7782,7 @@
       "repository": "kaiwu/pi-sparkles",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "kaiwu/sparkles",
@@ -7812,7 +7812,7 @@
       "repository": "kanallas/api-cost-meter",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "kanneiren/dsh-windows-manager",
@@ -7824,7 +7824,7 @@
       "repository": "Karbo123/DSH-EvoResearch",
       "status": "invalid",
       "reason": "package.json has no valid lowercase npm package name",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Karuisawa-Mrs/dsh-plugins",
@@ -7860,7 +7860,7 @@
       "repository": "KCNyu/clawock",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "KDB-Wind/dsh-minimal-anchored",
@@ -7956,13 +7956,13 @@
       "repository": "keyiadiannao/dsh-restart",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "keyiadiannao/dsh-restart-button",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "kgwdonkey/dsh-header-controls",
@@ -7980,13 +7980,13 @@
       "repository": "KhalilYamber/dsh-envoy",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "KhalilYamber/dsh-ux-simple",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "KhanZou/Deepseek-Harness-as-Desktop",
@@ -8004,7 +8004,7 @@
       "repository": "Khorsheed/dsh-ankh-guard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "kimirong/deepseek-harness-desktop",
@@ -8052,7 +8052,7 @@
       "repository": "kirkchinese/Claudecode--DSH",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "KirschBluteX/engineer-software",
@@ -8112,7 +8112,7 @@
       "repository": "knGear/dsh-mobile",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "kokubunshu/DSH-mobile-sync",
@@ -8148,7 +8148,7 @@
       "repository": "Komeiji-Shiki/graycode-for-dsh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Komorebi3x3/dsh-reminder",
@@ -8160,7 +8160,7 @@
       "repository": "kongchengavg/dsh-StatusLight",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "KongChengZhi/dsh-pixel-studio",
@@ -8220,7 +8220,7 @@
       "repository": "Kristin130/dsh-commandcode-provider",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "krudiy/wecom-bridge",
@@ -8328,7 +8328,7 @@
       "repository": "Lab-sku/dsh-vision-bridge",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "LAN-TINA-WS/dsh-gui-customization",
@@ -8484,7 +8484,7 @@
       "repository": "lecutu/DeepSeek-PPT-skill",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "lecutu/dsh-slide-reflex",
@@ -8520,7 +8520,7 @@
       "repository": "lencx/dsh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "lencx/Minke",
@@ -8577,6 +8577,12 @@
       "checkedAt": "2026-08-15T10:40:41.398Z"
     },
     {
+      "repository": "lesliechowsh/dsh-weniger-theme",
+      "status": "invalid",
+      "reason": "package.json does not declare a safe dsh.bundle.patch",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
+    },
+    {
       "repository": "lgYanami/dph-unarchive-sessions",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
@@ -8592,7 +8598,7 @@
       "repository": "lhf6623/dsh-keyboard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "lhh010/dsh-bash-encoding",
@@ -8628,7 +8634,7 @@
       "repository": "Li3NGa/deepseek-multi-agent-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Li3NGa/DHS-multi-agent-plugin",
@@ -8658,7 +8664,7 @@
       "repository": "LiangYin233/dsh-model-config-sync",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "libaie/onboard-dsh-projects",
@@ -8766,13 +8772,13 @@
       "repository": "lijma/awesome-deepseek-harness-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "lijma/deepseek-harness-plugin-leaderboard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "LiJunfeng000000000000/zotero-mcp-dsh",
@@ -8784,7 +8790,7 @@
       "repository": "lijx122/dsh-plugin-session-rewind",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "like-study1/Oh-My-DSH",
@@ -8796,7 +8802,7 @@
       "repository": "lilwhich/my_better-dsh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "LilycleHeart/liuli-theme",
@@ -8892,7 +8898,7 @@
       "repository": "linshufan21/Deepseek-Harness-Api-monitor",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "linux-tools/ojgen",
@@ -8928,13 +8934,13 @@
       "repository": "literaf/ai4scholar-plugin-dsh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "literaf/dsh-research",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "litestartup-com/litestartup-skills",
@@ -9000,13 +9006,13 @@
       "repository": "liuup/dsh-latex",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "liuxinlongwa-hue/dsh-stitch-designer",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-15T20:37:45.340Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "liuyun847/dsh-client-ui-peak-valley",
@@ -9126,13 +9132,13 @@
       "repository": "lndyzwdxhs/dsh-plugin-scaffold",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "lndyzwdxhs/web-background",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "lo2589/deepseek-harness-provider",
@@ -9174,7 +9180,7 @@
       "repository": "LongFuXiaoFeng/dsh-task-reminder",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-17T20:43:31.513Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "longlongdragons/roleplay-plugin",
@@ -9198,7 +9204,7 @@
       "repository": "loongsuite/pilot-dsh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "loopwithai/LoopWithAI",
@@ -9426,7 +9432,7 @@
       "repository": "lynkas/dsh-think-flow-flow",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "LynLiCoder/scan-corrector",
@@ -9456,7 +9462,7 @@
       "repository": "m1k-rsch/corti",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "M1kasssa/dsh-usage-monitor",
@@ -9486,7 +9492,7 @@
       "repository": "majiayu000/dsh-plugin-registry",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "MakkiShizu/dsh-blackhole",
@@ -9534,7 +9540,7 @@
       "repository": "MarcoG-h/DSH-Launcher",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "marcon0203/dsh-desktop",
@@ -9546,7 +9552,7 @@
       "repository": "MarecGents/marec-dsh-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "mario03690/dsh-adversarial-review",
@@ -9678,7 +9684,7 @@
       "repository": "math-lrz/dsh-plugin-toolkit",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "MAXeaglet/dsh-plugin-manager",
@@ -9690,7 +9696,7 @@
       "repository": "MayBeTheWorld/dsh-import-agent-settings",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "mbj733/dsh-hermes-memory",
@@ -9702,7 +9708,7 @@
       "repository": "MCapricorns/dsh-web-querit",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "mccray-s/dsh-plugins",
@@ -9768,7 +9774,7 @@
       "repository": "menantonio83-hue/tnt-house",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "menghuanshiguang/bilibili-downloader-dsh",
@@ -9816,7 +9822,7 @@
       "repository": "MFWTW/Auto_Load_Our_Plugin",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "MHfire/dsh-im-bridge",
@@ -9864,13 +9870,13 @@
       "repository": "miiaowuwu/dsh-event-sounds",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Miiiuser/dsh-browser-agent",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "mikeyoubeach/dsh-minimal-v3",
@@ -9894,7 +9900,7 @@
       "repository": "minatoAI/jina-dsh-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "mindscale-noah/MindMemOS",
@@ -10116,7 +10122,7 @@
       "repository": "MochiNek0/dsh-desktop-tauri",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Modole/dsh-plugin-market-laoboshi",
@@ -10242,7 +10248,7 @@
       "repository": "morluto/jacobian",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "morluto/leantoken",
@@ -10326,7 +10332,7 @@
       "repository": "MoyunLee/dsh-api-cost",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "MoYuSOwO/dsh-provision",
@@ -10368,7 +10374,7 @@
       "repository": "mrpulor-gh/nuphus-mcp",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "MrXCQ/yasuo-desktop-pet",
@@ -10434,7 +10440,7 @@
       "repository": "my-dsh/oh-my-dsh",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T03:08:20.183Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "myflx/hundun-dsh",
@@ -10584,7 +10590,7 @@
       "repository": "NeverToEver/dsh-usage-cost-dashboard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "nexsjournal/dsh-desktop-app",
@@ -10596,7 +10602,7 @@
       "repository": "NEXTINDIE/DeepSeek-Harness-for-VS-Code",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-16T01:57:28.363Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "nexu-io/open-design",
@@ -10722,7 +10728,7 @@
       "repository": "noname-iii/dsh-check-the-code",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "noname-iii/dsh-leisure-games",
@@ -10734,7 +10740,7 @@
       "repository": "NoNameLeGo/dsh-catppuccin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "noneghost/dsh-deepseek-usage",
@@ -10746,7 +10752,7 @@
       "repository": "nonmean/dhs-plugin-explorer",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "nonmean/dsh-plugin-explorer",
@@ -10830,7 +10836,7 @@
       "repository": "nzl153/pet-whale",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Nzssm1/dsh-factor-investing",
@@ -10860,7 +10866,7 @@
       "repository": "oa1mgo/dshplugin",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "octoparse/agent-skills",
@@ -10878,7 +10884,7 @@
       "repository": "ohtokaah-sys/dsh-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "oioioioioioioioioioio/oi-dsh-desktop",
@@ -10932,7 +10938,7 @@
       "repository": "omdsh-dev/dsh-hub-workshop",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "omdsh-dev/dsh-input-history",
@@ -10968,7 +10974,7 @@
       "repository": "omdsh-dev/dsh-science",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-16T20:37:14.867Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "omdsh-dev/dsh-tool-browser",
@@ -11016,13 +11022,13 @@
       "repository": "omdsh-plugins/omdsh-base",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "omdsh-plugins/omdsh-code",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "omdsh-plugins/omdsh-desktop",
@@ -11034,13 +11040,13 @@
       "repository": "omdsh-plugins/omdsh-justchat",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "omdsh-plugins/omdsh-mode",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "omdsh-plugins/omdsh-plugins.github.io",
@@ -11076,7 +11082,7 @@
       "repository": "oneincase/dsh-minecraft-skin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Onenightcarnival/deepseek-harness-desktop",
@@ -11112,7 +11118,7 @@
       "repository": "op7418/guizang-dsh-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "op7418/pilot-harness",
@@ -11130,19 +11136,19 @@
       "repository": "opencues/opencues",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "opengameapp/opengame-dsh-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "openguardrails/dsh-tui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "openguardrails/openguardrails",
@@ -11172,7 +11178,7 @@
       "repository": "openma-ai/deepseek-harness-tui",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "openma-ai/deepseek-harness-typescript-sdk",
@@ -11196,7 +11202,7 @@
       "repository": "openrect/dsh-community-installer",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "opensetk/dsh-xiaohei",
@@ -11214,7 +11220,7 @@
       "repository": "ophielel/dsh-devkit",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "opok-ops/dsh-mindforge",
@@ -11250,7 +11256,7 @@
       "repository": "orangeofcarl0-sys/dsh-fork-perf",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "orangeofcarl0-sys/J-Space-Cognition-Suite-VNext-Governor",
@@ -11280,7 +11286,7 @@
       "repository": "orziz/odai",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "oslook/awesome-dsh-plugins",
@@ -11508,7 +11514,7 @@
       "repository": "pengpengyi92/dsh-quant-indicators",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "pengpengyi92/dsh-quant-ui",
@@ -11520,7 +11526,7 @@
       "repository": "penguin-oo/dsh-delegate-router",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "penguinpanda/sebastian-kitchen-board",
@@ -11580,7 +11586,7 @@
       "repository": "Phant0Meow/dsh-memory-meow",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Phantomcyber-ai/dsh-skill-router",
@@ -11736,7 +11742,7 @@
       "repository": "PixLunaLab/dsh-plugin-pixluna",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "pjy-20051012/dsh-file-preview",
@@ -11832,7 +11838,7 @@
       "repository": "PrismScopes/deepseek-harness-zh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Propheta114/dsh-icon-manager",
@@ -11904,7 +11910,7 @@
       "repository": "Q00/ouroboros",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "q2224273481-afk/cc-dsh-desktop",
@@ -11929,6 +11935,12 @@
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
       "checkedAt": "2026-08-16T06:58:43.058Z"
+    },
+    {
+      "repository": "QIANLING-0831/dsh-memory",
+      "status": "invalid",
+      "reason": "package.json does not declare a safe dsh.bundle.patch",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "qiaoy01/dsh-mission",
@@ -11976,7 +11988,7 @@
       "repository": "qimidandapigu/dsh-game-agent",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "qimidandapigu/dsh-xiaotangyuan-game",
@@ -12000,7 +12012,7 @@
       "repository": "qing9835/plug",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "qingchunnh/dsh-desktop",
@@ -12090,7 +12102,7 @@
       "repository": "qomob/DSHwiki",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "QQQW114/dsh-archived-sessions",
@@ -12132,7 +12144,7 @@
       "repository": "Qshuai0213/dsh-wechat-bridge",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Qtfycg/windows-portable",
@@ -12234,7 +12246,7 @@
       "repository": "rabbitknight/dsh-tui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "raccoonBK/dsh-byok",
@@ -12318,7 +12330,7 @@
       "repository": "re-ITRT/dsh-upload-ux",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ReachForStar/dsh-client-ui-polish",
@@ -12372,7 +12384,7 @@
       "repository": "ReLuckyLucy/dsh_Rhine_Lab_themo",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "remybroun/infographic",
@@ -12402,19 +12414,19 @@
       "repository": "reshuibuduo/dsh-tmcra-memory",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "reshuibuduo/TMCRA-Agent-Memory",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "reshuibuduo/tmcra-deepseek-harness-memory",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "reshuibuduo/tmcra-memory",
@@ -12444,7 +12456,7 @@
       "repository": "reyesyang/dsh-file-drop-plugin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "reyesyang/dsh-plugin-file-drop",
@@ -12474,7 +12486,7 @@
       "repository": "Ri0n72Y/workspace-scope",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "richards878/dsh-mobUI",
@@ -12510,7 +12522,7 @@
       "repository": "rinDBeans/dsh-apex-standard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Rinsonlaw/law-dsh-plugin",
@@ -12588,7 +12600,7 @@
       "repository": "RossBool/dsh-whene-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "rotifer-protocol/rotifer-playground",
@@ -12600,7 +12612,7 @@
       "repository": "Roy-oss1/dsh-lark",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "rpvvn/EasyDSH",
@@ -12726,7 +12738,7 @@
       "repository": "Saikel-Orado-Liu/dsh-fare-meter",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sakikoTGW/pack-agent",
@@ -12744,7 +12756,7 @@
       "repository": "Saktawdi/ha-orchestrator",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sakurarain1213/deepseek-harness-lite",
@@ -12846,7 +12858,13 @@
       "repository": "sd1g1/dsh-minimal-fast-preset",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
+    },
+    {
+      "repository": "sd3247930/SkyDome",
+      "status": "invalid",
+      "reason": "package.json does not exist at the verified commit",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Sdongmaker/vpshub",
@@ -13026,7 +13044,7 @@
       "repository": "sHen9Qi/asuka-pet",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "shenjackyuanjie/dsh-cot-summary",
@@ -13050,7 +13068,7 @@
       "repository": "sherlockguo-yc/dsh-session-memory",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "shifan3/dsh-feishu-bridge",
@@ -13104,7 +13122,7 @@
       "repository": "Shiyao-Huang/awesome-deepseek-harness-plugin",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "shizhonggang/dsh-collab",
@@ -13116,13 +13134,13 @@
       "repository": "Shmilyol/dsh-hiyori-skin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Shmilyol/galgame-skin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "showlibia/dsh-plugin-installer",
@@ -13140,7 +13158,7 @@
       "repository": "shrekcg/dsh-lark-bridge",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "shuaixiangzi/dsh-mojian",
@@ -13170,7 +13188,7 @@
       "repository": "shuind/dsh-codex",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "shuind/dsh-codex-harness",
@@ -13224,13 +13242,13 @@
       "repository": "SilasSolivagus/dsh-plugin-multimodal",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "silencieuxzero/Better_Deepseek_Harkness",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "SiliconPsycheLabs/PSA-core",
@@ -13290,7 +13308,7 @@
       "repository": "Sivan757/dsh-agent-plugin-market",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sixtysevenlf/dsh-routing-suite-opencode-go",
@@ -13350,25 +13368,25 @@
       "repository": "sky-unicorn/dsh-mcp-server-manager",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sky-unicorn/dsh-plugin-market",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sky-unicorn/dsh-referenced-file",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sky-unicorn/dsh-sub-agent",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Skylake0216/DSH-for-VSCode",
@@ -13398,7 +13416,7 @@
       "repository": "SkySheep1999/dsh-polish-prompts",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "skystar567/dsh-openai-plugins",
@@ -13482,7 +13500,7 @@
       "repository": "snow-The/dsh-ark-plan",
       "status": "invalid",
       "reason": "bundle patch does not insert a loader entry owned by package dsh-ark-plan",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "SnowCrescenter-tech/dsh-desktop",
@@ -13500,7 +13518,7 @@
       "repository": "Snowfly11531/dsh-wechat-bot",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "SnowNightt/dsh-token-activity",
@@ -13530,7 +13548,7 @@
       "repository": "SoDaZilla-zzz/dsh-deepseek-balance-card",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "SolarCrown57/dsh-mobile-ui",
@@ -13560,7 +13578,7 @@
       "repository": "solstice621/dsh_dashboard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "SongMiao-tech/dsh-prompt-optimizer",
@@ -13572,13 +13590,13 @@
       "repository": "songoao25/bottom-info-bar",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "songoao25/contract-drafting-agent",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "songoao25/dsh-auto-compact",
@@ -13608,7 +13626,7 @@
       "repository": "songoao25/virtual-product-team",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "songyang0603/ds-spec-loop",
@@ -13659,6 +13677,12 @@
       "checkedAt": "2026-08-17T10:48:29.380Z"
     },
     {
+      "repository": "SparkElf/dsh-plugins-plus",
+      "status": "invalid",
+      "reason": "package.json has no valid semantic version",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
+    },
+    {
       "repository": "sparkmio/dsh-sfversion",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
@@ -13692,7 +13716,7 @@
       "repository": "SpookySandwich/dsh-smooth-stream",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "springbrand-lab/dsh-skin-universe",
@@ -13710,7 +13734,7 @@
       "repository": "Sqhao-O/dsh-docling",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sqs404/dsh-client-ui-cache-hit",
@@ -13764,13 +13788,13 @@
       "repository": "STARDUSTLC666/dsh-ptc-minimal",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-secure-review",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "STARDUSTLC666/dsh-sql",
@@ -13824,13 +13848,19 @@
       "repository": "statem-li/dsh-session-message-nav",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
+    },
+    {
+      "repository": "statem-li/dsh-webui",
+      "status": "invalid",
+      "reason": "package.json does not declare a safe dsh.bundle.patch",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "statem-li/webui",
-      "status": "invalid",
-      "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "status": "removed",
+      "reason": "topic removed, repository archived, or repository deleted",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Stellight/dsh-deepseek-balance",
@@ -13842,7 +13872,7 @@
       "repository": "StephenHu09/dsh-file-mention",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "stevysmith/stacktree-dsh",
@@ -13890,7 +13920,7 @@
       "repository": "stushansusu/dsh-miku-skin",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "stvlynn/dsh.fish",
@@ -13950,13 +13980,13 @@
       "repository": "sundusk/dsh-macDesktop-pet",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sundusk/mac-ballPet-DeepSeekHarness",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "SundustYc/dsh-pet",
@@ -13968,7 +13998,7 @@
       "repository": "sungatetop/dsh-browser-control",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Sunrisepeak/dsh-index",
@@ -14010,13 +14040,13 @@
       "repository": "Sureo0/deepseek-harness-launcher",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "SuTang-vain/dsh-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "SuTang-vain/dsh-self-harness-tools",
@@ -14040,7 +14070,7 @@
       "repository": "Sutera-Diffusus/metera",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "sutimee/dsh-command-quarantine",
@@ -14130,7 +14160,7 @@
       "repository": "SZMY-haruhi/dsh-web-search-Tavily",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "szx-a/ds",
@@ -14166,13 +14196,13 @@
       "repository": "tangwenhao616-netizen/dsh-ssh-world",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "TAO-WU-WU/dsh-token-balance-widget",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "TaoSmile/dsh-shell",
@@ -14208,7 +14238,7 @@
       "repository": "TaxolYang0000/dsh-hermes-collab-pipeline",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "TaxolYang0000/dsh-kanban-watcher",
@@ -14238,7 +14268,7 @@
       "repository": "techysy/deepseek-harness-fnos",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "temotee2103/dsh-overdrive",
@@ -14347,6 +14377,12 @@
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
       "checkedAt": "2026-08-17T03:13:11.118Z"
+    },
+    {
+      "repository": "ther000/DshWebLauncher",
+      "status": "invalid",
+      "reason": "package.json does not exist at the verified commit",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "thjyy/deepseek-harness-vision-assistant",
@@ -14532,7 +14568,7 @@
       "repository": "TommyFang2077/dsh-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "TommyFang2077/dsh-easy-desktop",
@@ -14544,7 +14580,7 @@
       "repository": "TommyFang2077/git-clis-dsh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "TomoyoNatsume/dsh-qq-bridge",
@@ -14568,7 +14604,7 @@
       "repository": "toolclub/agent_team_gui",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "toplchx/dsh-financial-analysis",
@@ -14904,7 +14940,7 @@
       "repository": "uckkk/dsh-http",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "uckkk/dsh-iconography",
@@ -15102,7 +15138,7 @@
       "repository": "UE-DND/dsh-antigravity-auth",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "uigdwunm/dsh-ui-suite",
@@ -15120,7 +15156,7 @@
       "repository": "Ultronen/dsh-theme-lab",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "uluckystar/dsh-client-ui-side-tasks",
@@ -15216,7 +15252,7 @@
       "repository": "usertianziyang/DSH-Plugin-Hub",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "utensil/dsh-pi-tui-mono",
@@ -15228,7 +15264,7 @@
       "repository": "utensil/dsh-pi-tui-shim",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "V-dev-388/dsh-plugin-hello",
@@ -15246,7 +15282,7 @@
       "repository": "v587d/capital-generation",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "v587d/dsh-multimodal-skill",
@@ -15300,7 +15336,7 @@
       "repository": "vibeinging/dsh-work",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "victorzhong0110/dsh-code-reference",
@@ -15324,7 +15360,7 @@
       "repository": "vilicvane/dsh-plugin-turn-memory",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T01:50:27.736Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "vilicvane/dsh-plugin-web-notify",
@@ -15336,7 +15372,7 @@
       "repository": "VincentJiang06/dsh-wechatmpdev",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "VincentPhoton/SeekBalance",
@@ -15354,7 +15390,7 @@
       "repository": "VitaTsui/deepseek-harness-suite",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Vithrive/Deepseek-Harness-for-Chrome",
@@ -15390,7 +15426,7 @@
       "repository": "Vocllum/DSH-TDAI-Memory",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Vocllum/DSH-TDAI-Memory-Adapter",
@@ -15474,19 +15510,19 @@
       "repository": "w2112515/dsh-remote-pack",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "w769721503/dsh-plugin-store",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "walavave/dsh-git",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "walkinglabs/awesome-deepseek-harness-plugins",
@@ -15504,13 +15540,13 @@
       "repository": "Wanbinyu/deepseek-harness-community-catalog",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Wanbinyu/dsh-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Wanbinyu/wanbinyu-harness-toolbox",
@@ -15522,13 +15558,13 @@
       "repository": "wang-jie-git/dsh-memory",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wang-jie-git/dsh-memory-ai",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wang-junjian/spritely",
@@ -15576,7 +15612,7 @@
       "repository": "wanghehe123/dsh-sessions",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wangjacks/dsh-hanami-theme",
@@ -15822,19 +15858,19 @@
       "repository": "weisiren000/dsh-remote-ops",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "WeiYe6/dsh-handoff",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "welsione/dsh-mmx-multimodal",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wendi-lok/dsh-file-explorer",
@@ -15930,7 +15966,7 @@
       "repository": "Wha1eChai/dsh-supervisor",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "WhaleHarness/WhaleHarness",
@@ -16026,7 +16062,7 @@
       "repository": "Whatsmore-nf/dsh-context-steward",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "white0dew/awesome-dsh-plugins",
@@ -16068,7 +16104,7 @@
       "repository": "whitelonng/dshcode",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "whj2015/dsh-wechat-bridge",
@@ -16092,7 +16128,7 @@
       "repository": "whyihaveyou/dsh-suite",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "whyihaveyou/dsh-workstation",
@@ -16128,7 +16164,7 @@
       "repository": "william-jin-cmu/dsh-companion",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "william-jin-cmu/dsh-gal",
@@ -16152,7 +16188,7 @@
       "repository": "windfind-02/jingbao-pet",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "windfind-02/jingbao-voice-pet",
@@ -16194,7 +16230,7 @@
       "repository": "wink-run/dsh-plugin-store",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wink-run/tokenbank",
@@ -16284,7 +16320,7 @@
       "repository": "wonderfulcode1/troublemaker",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "WooLeo1995/dsh-graph",
@@ -16374,7 +16410,7 @@
       "repository": "WuGc1999/dsh-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wujiahaocoder/dsh-delete-session-plugin",
@@ -16422,13 +16458,13 @@
       "repository": "wuxinzhe/dsh-speech-sherpa",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wuyh/dsh-workspace-files",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wuyuzi-luo/dsh-desktop",
@@ -16452,7 +16488,7 @@
       "repository": "wwumit/dsh-skill-hub",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "wwumit/skills-compliance-intl",
@@ -16524,7 +16560,7 @@
       "repository": "X-hub-spec/liangwenfeng-gu",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "X-hub-spec/liangwengu",
@@ -16542,7 +16578,7 @@
       "repository": "xavier711/dsh-deepseek-usage",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "XavierMarquis93/dsh-plugin-conversation-outline",
@@ -16554,13 +16590,13 @@
       "repository": "xbc996/schnauzer-pet",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xbzbing/dsh-password-gate",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xccpddym/dsh-bubble-nav",
@@ -16584,7 +16620,7 @@
       "repository": "xiaheng1/dsh-turn-nav",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xiajiajun516/dsh-settings-organizer",
@@ -16794,7 +16830,7 @@
       "repository": "xiayuhkust/dsh-toolbelt",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xiayuhkust/dsh-visual-probe",
@@ -16872,7 +16908,7 @@
       "repository": "xinman100/dsh-opencode-go-usage-plus",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xinmo114514/dsh-usage-widget",
@@ -16944,7 +16980,7 @@
       "repository": "xiyuepcl/dsh-translator",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Xizhi1024/deepseek-harness-dsh-for-vscode",
@@ -16956,7 +16992,7 @@
       "repository": "Xizhi1024/dsh-vs-sidebar",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xjg12345/DeepSeek-Harness-Bocchi-UI",
@@ -16968,7 +17004,7 @@
       "repository": "XJungit/seeker-craft",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xlight/deepseek-visionary",
@@ -17010,7 +17046,7 @@
       "repository": "xrj/dsh-market-site",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-17T20:43:31.513Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xrj/dsh-plugin-registry",
@@ -17034,7 +17070,7 @@
       "repository": "Xs1KVerOA/dsh-resource-center",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xtxo/dsh-ui",
@@ -17077,6 +17113,12 @@
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
       "checkedAt": "2026-08-17T10:48:29.380Z"
+    },
+    {
+      "repository": "xuedai-mayi/dsh-wenshan",
+      "status": "invalid",
+      "reason": "package.json does not exist at the verified commit",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xuender/dsh-history",
@@ -17130,7 +17172,7 @@
       "repository": "xxxrickymorty-dev/dsh-c137",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xxxxxdger/DSH-launcher",
@@ -17166,7 +17208,7 @@
       "repository": "xyTom/coding-tools-mcp",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xzy-jason/dsh-chinese-search",
@@ -17184,7 +17226,7 @@
       "repository": "xzyonline/dsh-file-attachments",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "xzyonline/dsh-vision",
@@ -17195,8 +17237,8 @@
     {
       "repository": "y-wi/dsh-deepseek-web",
       "status": "invalid",
-      "reason": "package.json has no valid semantic version",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "reason": "package.json does not declare a safe dsh.bundle.patch",
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "y2zyyr/dsh-model-retry-settings",
@@ -17394,7 +17436,7 @@
       "repository": "yeshimei/dsh-sound",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "yfzhou0904/dsh-plugin-gallery",
@@ -17436,13 +17478,13 @@
       "repository": "Yihong89/dsh-plugins",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Yihong89/dsh-sister",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Yihong89/dsh-teacher",
@@ -17490,7 +17532,7 @@
       "repository": "YisfL/dsh-desktop",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "yj060464-commits/dsh-chat-tools",
@@ -17544,7 +17586,7 @@
       "repository": "ylw-a/dsh-file-explorer",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ymr6666/deepseekHarnessUI",
@@ -17610,7 +17652,7 @@
       "repository": "YshuY/dsh-agent-teams-meta",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Yts1919/dsh-vision-complete",
@@ -17628,7 +17670,7 @@
       "repository": "Yu-tao-Li/computer-use-win",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Yu-tao-Li/dsh-computer-use-win",
@@ -17640,7 +17682,7 @@
       "repository": "Yu-tao-Li/dsh-refcheck",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "yu-wenchao/deepseek-harness-desktop-Install",
@@ -17652,7 +17694,7 @@
       "repository": "yu-wenchao/deepseek-harness-Install",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "yuanzehui313/dsh-workspace-enhance",
@@ -17664,7 +17706,7 @@
       "repository": "YUCONG-28/dsh-skills-plugins",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T16:48:13.688Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Yuel25/dsh-desktop",
@@ -17712,7 +17754,7 @@
       "repository": "yun520-1/deepseek-heartflow",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "yunfei07/ai-dsh-book",
@@ -17724,7 +17766,7 @@
       "repository": "yunfei07/ui-song-theme",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "YunTaiHua/illusion-agent",
@@ -17760,7 +17802,7 @@
       "repository": "yuyi2439/dsh-onebot",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "yuzhichenai/dsh-desktop",
@@ -17790,7 +17832,7 @@
       "repository": "Yvesgao/dsh-desktop-shortcut",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ywgATustcbbs/dsh-human-task",
@@ -17808,7 +17850,7 @@
       "repository": "ywsldxk/dsh-plugin-stars",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "yxccai/dsh-desktop",
@@ -17826,7 +17868,7 @@
       "repository": "yyh-001/dsh-expression",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "YYTbit/awesome-dsh-bridges",
@@ -17862,7 +17904,7 @@
       "repository": "yzke/dsh-extension-ops",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "yzlin499/dsh-yzlin499-easy-plugins",
@@ -17904,7 +17946,7 @@
       "repository": "z331225718/sipi-dsh-openai-codex-auth",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "z827439974/dsh-background-plugin",
@@ -17916,7 +17958,7 @@
       "repository": "ZASENJC/dsh-plugins-store",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zbbsdsb/WAM-Framework",
@@ -17946,7 +17988,7 @@
       "repository": "zdjmrq/dsh-command-guard",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zdjmrq/dsh-intercom",
@@ -17988,7 +18030,7 @@
       "repository": "zdjmrq/dsh-user-plugins-manager",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zdx8637-gitdog/dshmobile",
@@ -18180,7 +18222,7 @@
       "repository": "zhengjy01/dsh-settings-nav-fold",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zhengjy01/dsh-start",
@@ -18198,7 +18240,7 @@
       "repository": "zhenkun26/RepoAtlas",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "ZhenMoon/browser-auto",
@@ -18228,7 +18270,7 @@
       "repository": "ZhimingYe/dsh-hub",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
@@ -18270,7 +18312,7 @@
       "repository": "zhouzhencheng07/dsh-tavily-search",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zhu1090093659/dsh-web-ui",
@@ -18312,7 +18354,7 @@
       "repository": "zhulin025/LaoA-dshGF",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zhuyan1085/mcp-deliverable",
@@ -18384,7 +18426,7 @@
       "repository": "zjl1989-li/dsh-harness-zh",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zjsthmjialin/commercial-ui-ux-codex-skill",
@@ -18432,7 +18474,7 @@
       "repository": "zoahdev/dsh-ecosystem",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zoahdev/dsh-plugin-doctor",
@@ -18456,13 +18498,13 @@
       "repository": "zoahdev/dsh-subscribe",
       "status": "invalid",
       "reason": "package.json does not declare a safe dsh.bundle.patch",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zoahdev/dsh-tutorials",
       "status": "invalid",
       "reason": "package.json does not exist at the verified commit",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "Zomcxj/dsh-desktop",
@@ -18528,7 +18570,7 @@
       "repository": "zrt-ai-lab/dsh-desktop-windows",
       "status": "removed",
       "reason": "topic removed, repository archived, or repository deleted",
-      "checkedAt": "2026-08-18T18:56:05.142Z"
+      "checkedAt": "2026-08-18T20:40:40.600Z"
     },
     {
       "repository": "zrt-ai-lab/open-dsh-plugins",
